@@ -1416,7 +1416,7 @@
 <polygon id="DN1G31" class="st2" points="220.5,200.4 211.9,200.4 207.7,204.6 207.7,210.3 220.5,210.3 "/>
 <rect id="DN1G32" x="207.7" y="211.7" class="st2" width="12.8" height="6.3"/>
 <rect id="DN1G33" x="207.7" y="219" class="st2" width="12.8" height="6.3"/>
-<rect id="DN1G34_x5E_T02M_x5E_T02P" x="207.7" y="226.7" class="st2" width="23.4" height="8.6"/>
+<rect id="DN1G34" x="207.7" y="226.7" class="st2" width="23.4" height="8.6"/>
 <polygon id="DN1G35" class="st2" points="159.3,235.2 186.5,235.2 186.5,219.6 172.9,219.6 172.9,212.5 159.3,212.5 "/>
 <rect id="DN1G36" x="174.4" y="212.5" class="st2" width="12.1" height="5.9"/>
 <polygon id="DN1G373839" class="st2" points="159.3,211.1 159.3,142.8 176.5,142.8 176.5,194.2 186.5,194.2 186.5,211.1 "/>
@@ -1437,7 +1437,7 @@
 <polygon id="DN1G56" class="st2" points="416.9,298.1 409.1,298.1 409.1,278.6 416.9,277.9 "/>
 <polygon id="DN1G57" class="st2" points="407.6,298.1 399.8,298.1 399.8,279.6 407.6,278.8 "/>
 <polygon id="DN1G58" class="st2" points="416.9,299.7 416.9,313.3 389.4,313.3 389.4,280.5 398.4,279.6 398.4,299.9 "/>
-<polygon id="DN1G59_x5E_T04_x5E_T05" class="st2" points="387.9,313 377.9,313 377.9,281.9 387.9,280.9 "/>
+<polygon id="DN1G59_x5E_T04" class="st2" points="387.9,313 377.9,313 377.9,281.9 387.9,280.9 "/>
 <rect id="DN1TBD" x="122" y="509.8" class="st2" width="57.2" height="57"/>
 <text transform="matrix(1 0 0 1 156.6093 428.6747)" class="st30 st4 st32">x 790</text>
 <text transform="matrix(1 0 0 1 156.6093 443.0747)" class="st30 st4 st33">owned out of 1400</text>
