@@ -19,7 +19,7 @@
         font-weight: 700;
       }
 
-      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22 {
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22 {
         font-family: BerlinSansFBDemi-Bold, 'Berlin Sans FB Demi';
       }
 
@@ -47,15 +47,11 @@
         font-size: 6.08px;
       }
 
-      .cls-7 {
-        font-size: 5.01px;
-      }
-
       .cls-25 {
         fill: #f0f0f0;
       }
 
-      .cls-8 {
+      .cls-7 {
         font-size: 1.86px;
       }
 
@@ -63,25 +59,29 @@
         fill: #f47725;
       }
 
-      .cls-9 {
+      .cls-8 {
         font-size: 4.88px;
       }
 
-      .cls-10 {
+      .cls-9 {
         font-family: BerlinSansFB-Bold, 'Berlin Sans FB';
         font-size: 7.89px;
       }
 
-      .cls-10, .cls-28, .cls-30 {
+      .cls-9, .cls-28, .cls-30 {
         fill: #231f20;
       }
 
-      .cls-11 {
+      .cls-10 {
         font-size: 4.2px;
       }
 
       .cls-34 {
         letter-spacing: -.21em;
+      }
+
+      .cls-11 {
+        font-size: 4.5px;
       }
 
       .cls-12 {
@@ -442,7 +442,7 @@
     <g id="Deichmann">
       <path id="Deichmann-2" data-name="Deichmann" class="cls-28" d="m128.09,227.59c0,.69-.29,1.4-1.13,1.41h-1.07s-.02-2.78-.02-2.78h.96c.78-.01,1.25.43,1.26,1.37m1.49,0c0-1.39-.86-2.52-2.54-2.51-.1,0-2.63.01-2.63.01l.03,5.05s2.52-.01,2.63-.01c1.68-.01,2.52-1.15,2.51-2.54m.86,2.52l4.27-.03v-1.09s-2.82.02-2.82.02v-.91s2.33-.01,2.33-.01v-1.05s-2.34.01-2.34.01v-.91s2.81-.02,2.81-.02v-1.09s-4.28.03-4.28.03l.03,5.05Zm5.31-.03h1.46s-.03-5.06-.03-5.06h-1.46s.03,5.06.03,5.06Zm3.89-2.55c0-.85.29-1.58,1.19-1.58.62,0,.92.37,1.04.8h1.45c-.08-1.14-1.05-1.93-2.5-1.92-1.82.01-2.68,1.22-2.68,2.71,0,1.49.89,2.69,2.71,2.68,1.52,0,2.41-.87,2.48-1.97h-1.45c-.08.46-.37.83-1.04.83-.9,0-1.21-.7-1.21-1.55m8.12,2.48h1.46s-.03-5.06-.03-5.06h-1.46s.01,1.94.01,1.94h-2.14s-.01-1.91-.01-1.91h-1.46s.03,5.06.03,5.06h1.46s-.01-2-.01-2h2.14s.01,1.98.01,1.98Zm7.62-.05h1.34s-.03-5.06-.03-5.06h-2.1s-.98,3.35-.98,3.35h-.01l-1.02-3.33h-2.11s.03,5.06.03,5.06h1.35s-.02-3.79-.02-3.79h.01l1.18,3.77h1.2s1.13-3.79,1.13-3.79h.01l.02,3.78Zm5.4-1.9h-1.23s.6-1.9.6-1.9h.01l.62,1.9Zm.62,1.86h1.56s-1.91-5.05-1.91-5.05h-1.79s-1.87,5.07-1.87,5.07h1.56s.26-.83.26-.83h1.91s.27.81.27.81Zm5.67-.03h1.61s-.03-5.06-.03-5.06h-1.41s.02,3.17.02,3.17h-.01l-2.05-3.15h-1.68s.03,5.06.03,5.06h1.41s-.02-3.2-.02-3.2h.01l2.12,3.18Zm8.04-.05l-.03-5.05h-1.41s.02,3.17.02,3.17h-.01l-2.05-3.15h-1.68s.03,5.06.03,5.06h1.41s-.02-3.2-.02-3.2h.01l2.12,3.18h1.61Z"/>
     </g>
-    <text class="cls-10" transform="translate(131.38 250.64)"><tspan x="0" y="0">SIZEER</tspan></text>
+    <text class="cls-9" transform="translate(131.38 250.64)"><tspan x="0" y="0">SIZEER</tspan></text>
     <g id="Sinsay">
       <path id="path14" class="cls-28" d="m180.09,384.22c.61,0,1.13.15,1.58.45.93.64,1.39,1.75,1.39,3.33,0,1.08-.24,2-.73,2.77-.55.85-1.3,1.29-2.23,1.3v-2.32c.41,0,.74-.18.97-.54.2-.32.3-.71.3-1.18,0-.42-.08-.77-.24-1.07-.17-.31-.39-.46-.66-.46-.35,0-.63.45-.83,1.36-.31,1.34-.55,2.19-.72,2.54-.43.91-1.11,1.36-2.01,1.36-.53,0-1.01-.13-1.45-.38-.43-.25-.78-.69-1.04-1.3-.27-.61-.4-1.26-.4-1.97,0-.96.23-1.76.69-2.42.51-.75,1.23-1.15,2.17-1.2v2.22c-.76.12-1.13.62-1.13,1.51,0,.36.08.68.24.94.16.27.36.4.61.4.32,0,.58-.46.78-1.38.3-1.33.54-2.19.72-2.58.45-.92,1.11-1.38,1.99-1.38Z"/>
       <path id="path16" class="cls-28" d="m182.8,373.04v2.26h-5.14c-.6,0-1.02.09-1.26.27-.29.22-.43.63-.43,1.2,0,1.16.66,1.75,1.96,1.75h4.87v2.25h-8.5v-2.16h.8c.31,0,.46,0,.46-.01-.01,0-.02,0-.02-.02-.47-.27-.83-.65-1.08-1.14-.27-.5-.4-1.03-.4-1.58,0-1.13.44-1.95,1.32-2.47.43-.23.94-.35,1.53-.35h5.89Z"/>
@@ -497,10 +497,10 @@
       <path class="cls-31" d="m199.83,320.34h.9c1,0,1.3-.1,1.5-.3.1-.2.1-.5,0-.7-.2-.3-.5-.3-1.5-.3h-.9v.2h.9c1.1,0,1.2.1,1.2.4s-.1.4-1.2.4c-.8,0-.9,0-.9.1v.2h0Z"/>
     </g>
     <text class="cls-18" transform="translate(96.12 41.54) rotate(-13.63)"><tspan x="0" y="0">TUCANO</tspan></text>
-    <text class="cls-9" transform="translate(106.44 68.32) rotate(-1.93)"><tspan x="0" y="0">TEILOR</tspan></text>
+    <text class="cls-8" transform="translate(106.44 68.32) rotate(-1.93)"><tspan x="0" y="0">TEILOR</tspan></text>
     <text class="cls-15" transform="translate(131.37 78.1) rotate(-87.98)"><tspan x="0" y="0">OFFICE SHOES</tspan></text>
     <text class="cls-15" transform="translate(143.4 78.1) rotate(-87.98)"><tspan x="0" y="0">TOM TAILOR</tspan></text>
-    <text class="cls-7" transform="translate(105.94 89.37)"><tspan x="0" y="0">MAXXIMUS</tspan></text>
+    <text class="cls-11" transform="translate(106.44 89.49)"><tspan x="0" y="0">MAXXIMUS</tspan></text>
     <text class="cls-3" transform="translate(109.85 128.06)"><tspan x="0" y="0">COLIN’S</tspan></text>
     <text class="cls-3" transform="translate(114.23 149.33)"><tspan x="0" y="0">NORIEL</tspan></text>
     <text class="cls-5" transform="translate(114.23 187.65)"><tspan x="0" y="0">JOLIDON</tspan></text>
@@ -509,7 +509,7 @@
     <text class="cls-4" transform="translate(150.96 280.61)"><tspan x="0" y="0">TEZYO</tspan></text>
     <text class="cls-19" transform="translate(170.88 289.87) rotate(-90)"><tspan x="0" y="0">SPLEND’OR</tspan></text>
     <text class="cls-12" transform="translate(188.26 299.08) rotate(-90)"><tspan x="0" y="0">AC&amp;co</tspan><tspan class="cls-34" x="17.92" y="0">	</tspan></text>
-    <text class="cls-11" transform="translate(212.44 291.57) rotate(-.19)"><tspan x="0" y="0">HERMOSA</tspan></text>
+    <text class="cls-10" transform="translate(212.44 291.57) rotate(-.19)"><tspan x="0" y="0">HERMOSA</tspan></text>
     <text class="cls-6" transform="translate(241.97 300.27) rotate(-90.19)"><tspan x="0" y="0" xml:space="preserve"> LENSA</tspan></text>
     <text class="cls-20" transform="translate(252.97 300.2) rotate(-90.19)"><tspan x="0" y="0">MARELBO</tspan></text>
     <text class="cls-22" transform="translate(295.29 299.46) rotate(-90.19)"><tspan x="0" y="0">MANIPHEST</tspan></text>
@@ -554,7 +554,7 @@
       <path class="cls-23" d="m382.7,290.12c0,.08,0,.2,0,.35,0,.16,0,.27,0,.35,0,.01,0,.02,0,.03,0,0,0,0-.03,0-.04,0-.1,0-.17,0-.1,0-.16,0-.18,0-.02,0-.03-.01-.03-.03,0,.01,0-.05,0-.17.01-.27.02-.44.02-.53,0-.07,0-.18,0-.32,0-.14,0-.25,0-.32,0-.01,0-.02.02-.02.02,0,.05,0,.09,0,.04,0,.07,0,.09,0,.02,0,.05,0,.09,0,.04,0,.07,0,.09,0,.02,0,.03,0,.03.02,0,.07,0,.18-.01.32,0,.14,0,.25,0,.32Z"/>
       <path class="cls-23" d="m384.22,290.82s0,.02-.03.02c-.02,0-.08,0-.18,0-.09,0-.16,0-.18,0-.02,0-.04-.02-.04-.04-.02-.09-.04-.15-.05-.15-.01,0-.1,0-.27,0-.11,0-.17,0-.18.01-.01,0-.02.05-.04.11-.01.06-.03.08-.05.09-.02,0-.1,0-.23,0-.1,0-.15,0-.15-.03,0-.02.07-.23.22-.64.16-.44.25-.68.26-.72,0-.03.02-.04.03-.04.02,0,.05,0,.08,0,.04,0,.07,0,.08,0s.04,0,.08,0c.04,0,.06,0,.08,0,.01,0,.02.01.04.03.03.07.13.31.29.71.16.41.24.62.24.64Zm-.71-.9s-.04.09-.07.19c-.04.1-.05.17-.05.18,0,.01.02.02.06.02.02,0,.05,0,.1,0,.04,0,.07,0,.07-.02,0,0,0,0,0-.01,0-.02-.01-.08-.05-.18-.03-.1-.05-.16-.07-.18Z"/>
     </g>
-    <text class="cls-8" transform="translate(399.86 299.43) rotate(-90.19)"><tspan x="0" y="0">JAQUELINE</tspan></text>
+    <text class="cls-7" transform="translate(399.86 299.43) rotate(-90.19)"><tspan x="0" y="0">JAQUELINE</tspan></text>
     <text class="cls-13" transform="translate(405.31 295.67)"><tspan x="0" y="0">MARCO </tspan></text>
     <text class="cls-13" transform="translate(433.88 301.49)"><tspan x="0" y="0">SENNEVILLE</tspan></text>
     <text class="cls-13" transform="translate(433.93 310.09)"><tspan x="0" y="0">AVANGARD</tspan></text>
