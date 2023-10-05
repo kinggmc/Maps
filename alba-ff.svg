@@ -69,15 +69,15 @@
       }
 
       .cls-6 {
+        font-size: 6.16px;
+      }
+
+      .cls-7 {
         font-size: 12.12px;
       }
 
       .cls-18 {
         letter-spacing: -.08em;
-      }
-
-      .cls-7 {
-        font-size: 6.17px;
       }
 
       .cls-19 {
@@ -137,11 +137,12 @@
       <path class="cls-8" d="m151.2,468.24h-8.67l-.28,1.12s1.68.14,1.26,1.96l-3.92,14.26h7.83l.28-1.26s-1.54-.42-1.12-1.68c0-.14,1.12-4.19,1.12-4.19h3.64c1.82,0,2.38.98,2.38.98l1.12-4.19h-6.15l.84-3.36h5.17c.98,0,1.68.7,1.68,1.12h.56l1.12-4.61-6.85-.14h0Z"/>
     </g>
     <text class="cls-3" transform="translate(67.72 414.18)"><tspan x="0" y="0">MESOPOTAMIA</tspan></text>
-    <text class="cls-7" transform="translate(67.69 329.99)"><tspan x="0" y="0">CARTOFISSERIE</tspan></text>
-    <text class="cls-6" transform="translate(32.13 259.88)"><tspan x="0" y="0">SPARTAN</tspan></text>
-    <text class="cls-6" transform="translate(37.09 219.92)"><tspan x="0" y="0">PIAZZA</tspan></text>
-    <text class="cls-6" transform="translate(41.23 183.34)"><tspan x="0" y="0">MADO</tspan></text>
+    <text class="cls-6" transform="translate(67.69 329.99)"><tspan x="0" y="0">CARTOFISSERIE</tspan></text>
+    <text class="cls-7" transform="translate(32.13 259.88)"><tspan x="0" y="0">SPARTAN</tspan></text>
+    <text class="cls-7" transform="translate(37.09 219.92)"><tspan x="0" y="0">PIAZZA</tspan></text>
+    <text class="cls-7" transform="translate(41.23 183.34)"><tspan x="0" y="0">MADO</tspan></text>
     <path class="cls-10" d="m243.81,260.99c-.33.05-1.59.36-2.8.66-8.8,2.3-15.94,9.44-18.45,18.42-.76,2.73-1.04,8.13-.57,11.05,1.28,8.02,6.35,15.15,13.52,18.97,2.96,1.59,8.3,3.25,8.3,2.59s-2.89-15.77-3.13-16.36c-.14-.36-1.3-1.64-2.61-2.85-2.68-2.47-3.34-3.44-3.87-5.67-.43-1.87-2.49-14.63-2.49-15.46,0-.62.81-1.09,1.21-.69.12.12.95,3.46,1.83,7.45,1.49,6.71,1.64,7.21,2.13,7.28.28.05.57-.07.64-.24.07-.17-.62-3.56-1.52-7.54-.9-3.98-1.59-7.3-1.52-7.42.05-.1.38-.17.73-.17h.66l1.64,7.4c1.68,7.56,1.83,7.9,2.73,7.33.29-.19.1-1.33-1.28-7.47-.9-3.98-1.57-7.42-1.47-7.61.07-.19.38-.36.69-.36.52,0,.62.21,1.59,4.55,2.42,10.86,2.25,10.27,2.8,10.34.28.05.57-.07.64-.24.07-.17-.62-3.56-1.52-7.54-1.49-6.59-1.59-7.26-1.26-7.54.9-.69,1.04-.33,3.42,7.9,2.2,7.59,2.32,8.16,2.23,9.84-.07,1.47-.26,2.2-1.19,4.27-.76,1.75-1.09,2.82-1.09,3.56,0,1.26,4.39,16.67,4.6,16.12.07-.19.62-2.68,1.21-5.5l1.09-5.15-.4-1.21c-.43-1.33-.4-2.44.28-9.01.45-4.51,1.23-8.3,2.7-13.21,1.57-5.22,3.13-8.39,5.08-10.39,2.47-2.51,3.94-2.3,3.94.57,0,1.99-5.81,32.18-6.43,33.34-.31.59-.78,2.68-1.3,5.69-.45,2.61-.88,5.03-.95,5.38l-.12.64,1.26-.36c5.03-1.45,8.82-3.72,12.33-7.4,4.69-4.91,7.09-10.93,7.11-17.83.02-7.37-2.61-13.78-7.78-18.88-3.63-3.6-8.49-6.14-13.56-7.11-1.61-.31-7.56-.43-9.06-.17h0Zm0,0"/>
+    <image width="64" height="64" transform="translate(533.14 292.93) scale(.38)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAELUlEQVR4nO1bz4scVRB+xIPG6MV1Z6p6d/WiARcUzCkBwZuoiXjyIBiP/gsSPCzxIG6mq2aXeFEE8WAOcZN4T84Rf4A/QG8qrpsEJMEkB2GmKj55k3XZ6emdTL9+r7t3nYIHw073+776ul7Vez21xlRgdqXVFsZXhWBZGS4p44/CsCEMf2+ODfc39527xl1rO+2W2c1mlx5/QAleU4KLQviPMlqP8a0yvmU77QNmt5j9EB8UxpPCeNPT6ZEhBH8pw5Kl+f2mySacvCKEv4VyPEeIP5TgTdPEcBfGT8c6QPCdMKbaxddtBxbtqVlw9w2G+9yBRfedMJIyfD9WCMZP7OoT95smmF1eSJTxq/wnhreE4T3bhacKz9uBRWF4Xxhv7yDEl5YfxTheTWh2BR8ThvXRJwQ9R96eTmZKY5xOZgZCEPZzlsTvdnVuviyGPzHCn3PC86ce4yET2HrUejpvaTg8S/OPmCrN0vx+F4Kj6xzPuTUdFZfgQk5+uRwTd8SEoZsT9h/Zs+Y+E9kchjB8nBMJZKqwforPCeOdYQJw3i6ZfdVVHbNPCb7ICHCnT/B8XOAPZh8Sxl+z5a2OnZrjogQ/ZKrOL1G5KOGJjOrSS5NnTU3WW5l7ZqQ6EL4d7+kT/pkR4JSp2YSwkymN1+3yzMPBgTSFd2JtcYMPwhPBBZCIe/zQw3ENLwBnkl+Dh+MaQ4AXdkMUOOcdV9N00wxx838znQqA0wjQ6RLAaQ7QupOgcPuoMFxxb3akCy/t9SS46e+Ge8Eqzt/Bm9atGgrre16ArL9aE5HG4GpTiNSFq00hUheuNoVIXbjqQcSmyYIyro350aLKw8/twTvJNDlYiQA2TRaE4Ubdjo8KATcm+ZGktABK+Hndzo4ZZ6MLIA0I+x2jgPBW/AjgYtfHttL8dSoATiNAp0sA90YSZLwZPwcQnqvb0TFjLboANk0ONnYjtDL3ZHQBnLkdl9t0uLpbu+N3OaxN4nwwAUJYY3C1KUTqwtWmEKkLV5tCpC5cLZ99r0jaPlaaiF9b7tWy/E2QTMx4rWiHWBkB7naK4bUQ3E2ISdzoU+twVQL0u8mRULxNqIlci3xVAgjhu9EEMBM7AMeH7iX8uioBlPCb4fvhuDeuehKxqzC7vWHSfS7yby6NwdWQT4LgDW8idUWeBlyLwvCZN5GJMeFM0NyjAbPx4EQ2YTn0wR2UP4LrQauPlhCgDCEf3DKCRxGgTEj64JZZctEEUM+k5INbJulGE8B6lqWiuGXLXzQBfJ9MUdyy5S+qAMJ4cmhtEpzJ9uRkce41tnp4ApW/qAL0qXV4mDxezevJKSzCtp6l7OmvaPnbUQAJ0CSVPZ4OEQ8lwBDP4sfv/Hlg3bgwG4Sba5MjeNFn0sHEafvYVvvZtnn+m9/H+aF5CF7e5LnhlpU3z4y//wLrel3qM6S8LgAAAABJRU5ErkJggg=="/>
   </g>
   <polygon id="Carolina_MallFF17" data-name="Carolina MallFF17" class="cls-2" points="20.97 124.9 20.97 152.44 97.22 152.44 97.22 123.78 20.97 124.9"/>
   <rect id="Carolina_MallFF15" data-name="Carolina MallFF15" class="cls-2" x="20.97" y="154.43" width="76.25" height="48.59"/>
