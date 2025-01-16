@@ -725,7 +725,7 @@
   <rect id="Baia_MareGF11" class="cls-11" x="461.5" y="60.2" width="51.3" height="100"/>
   <polygon id="Baia_MareGF01" class="cls-11" points="669.4 713.5 826.8 713.5 826.8 578.2 776.3 578.2 776.3 631.6 669.4 631.6 669.4 713.5"/>
   <rect id="Baia_MareGF02" class="cls-11" x="669.4" y="579.2" width="104.6" height="50.5"/>
-  <rect id="Baia_MareG07_G08" class="cls-11" x="669.4" y="516.8" width="46.6" height="37.8"/>
+  <rect id="Baia_MareG07_G08x" class="cls-11" x="669.4" y="516.8" width="46.6" height="37.8"/>
   <rect id="Baia_MareG00" class="cls-11" x="669.4" y="11.2" width="201.5" height="468"/>
   <polygon id="Baia_MareG424344" class="cls-11" points="660.7 75.2 627.8 75.2 627.8 52.1 645.2 52.1 645.2 30.1 660.7 30.1 660.7 75.2"/>
   <polygon id="Baia_MareG45x" class="cls-11" points="627.8 50 643.4 50 643.4 28.2 660.7 28.2 660.7 24.3 627.8 24.3 627.8 50"/>
@@ -738,7 +738,7 @@
   <rect id="Baia_MareG37" class="cls-11" x="562.7" y="107" width="15.1" height="24.9"/>
   <rect id="Baia_MareG36" class="cls-11" x="579.2" y="107" width="11.3" height="24.9"/>
   <rect id="Baia_MareG35" class="cls-11" x="591.8" y="107" width="11.1" height="24.9"/>
-  <rect id="Baia_MareG34" class="cls-11" x="604.3" y="107" width="11.2" height="24.9"/>
+  <rect id="Baia_MareG34x" class="cls-11" x="604.3" y="107" width="11.2" height="24.9"/>
   <polygon id="Baia_MareG33" class="cls-11" points="616.7 107 616.7 131.8 640.8 131.8 640.8 110.8 637.1 107.1 616.7 107"/>
   <rect id="Baia_MareG29x" class="cls-11" x="608.9" y="174.1" width="31.9" height="12.1"/>
   <polygon id="Baia_MareG27_x5F_G28" class="cls-11" points="640.8 187.6 591.1 187.6 591.1 226.7 607.6 226.7 607.6 213.2 640.8 213.2 640.8 187.6"/>
