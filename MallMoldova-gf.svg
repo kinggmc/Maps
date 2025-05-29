@@ -260,83 +260,81 @@
   <polygon id="ERA_IasiGF35" data-name="ERA IasiGF35" class="cls-2" points="737.52 32.16 737.52 33.94 714.29 33.94 714.29 61.72 753.85 61.72 753.85 49 771.14 49 770.91 32.16 737.52 32.16"/>
   <rect id="ERA_IasiGF36_2" data-name="ERA IasiGF36_2" class="cls-2" x="737.41" y="22.16" width="33.34" height="8.72"/>
   <polygon id="ERA_IasiGF36_1" data-name="ERA IasiGF36_1" class="cls-2" points="737.68 1.27 737.07 12.38 737.41 12.38 737.41 20.88 770.47 20.88 770.47 13.11 755.43 13.05 755.08 8.27 748.46 1.27 737.68 1.27"/>
-  <polygon class="cls-2" points="177.15 157.53 170.38 174.5 178.87 174.5 178.87 189.58 196.83 189.58 196.83 157.53 177.15 157.53"/>
-  <polygon class="cls-2" points="169.77 176.04 165.78 185.97 177.42 185.97 177.42 176.04 169.77 176.04"/>
-  <polygon class="cls-2" points="165.33 187.23 162.34 194.45 177.42 194.45 177.42 187.23 165.33 187.23"/>
-  <polygon class="cls-2" points="161.9 195.81 158.74 203.75 177.42 203.75 177.42 195.81 161.9 195.81"/>
-  <polygon class="cls-2" points="158.2 205.19 157.3 207.63 163.52 213.59 177.42 213.59 177.42 205.19 158.2 205.19"/>
-  <rect class="cls-2" x="178.87" y="191.12" width="17.96" height="22.47"/>
-  <rect class="cls-2" x="198.55" y="157.53" width="27.61" height="56.05"/>
-  <polygon class="cls-2" points="227.7 157.53 227.7 213.59 246.3 213.59 246.3 190.27 242.87 190.27 242.87 157.53 227.7 157.53"/>
-  <polygon class="cls-2" points="167.9 218.01 180.13 229.48 206.22 229.48 206.22 218.01 167.9 218.01"/>
-  <polygon class="cls-2" points="180.31 230.92 180.31 237.78 201.25 237.78 201.25 239.59 206.22 239.59 206.22 230.92 180.31 230.92"/>
-  <rect class="cls-2" x="180.31" y="239.13" width="19.32" height="14.44"/>
-  <rect class="cls-2" x="205.68" y="245.27" width="5.15" height="8.3"/>
-  <rect class="cls-2" x="212.35" y="218.01" width="15.35" height="35.56"/>
-  <rect class="cls-2" x="229.24" y="218.01" width="17.42" height="35.56"/>
-  <polygon class="cls-2" points="252.43 156.8 252.43 193.55 265.97 193.55 265.97 211.6 279.42 211.6 279.42 156.8 252.43 156.8"/>
-  <polygon class="cls-2" points="260.65 218.01 260.65 253.58 275.27 253.58 275.27 238.05 282.94 238.05 282.94 230.92 275.72 230.92 275.72 218.01 260.65 218.01"/>
-  <rect class="cls-2" x="276.6" y="239.59" width="6.35" height="14.26"/>
-  <rect class="cls-2" x="284.48" y="240.3" width="8.21" height="13.27"/>
-  <polygon class="cls-2" points="284.48 218.01 284.48 238.74 294.41 238.74 294.41 253.58 305.69 253.58 305.69 238.74 314 238.74 314 218.01 284.48 218.01"/>
-  <polygon class="cls-2" points="280.96 156.8 280.96 211.6 306.45 211.6 306.45 200.77 296.48 200.77 296.48 156.8 280.96 156.8"/>
-  <polygon class="cls-2" points="298.11 156.8 298.11 199.06 306.45 199.06 306.45 190.27 309.12 190.27 309.12 156.8 298.11 156.8"/>
-  <rect class="cls-2" x="307.16" y="240.3" width="6.84" height="13.27"/>
-  <rect class="cls-2" x="315.71" y="218.01" width="7.85" height="35.56"/>
-  <rect class="cls-2" x="325.1" y="218.01" width="15.62" height="35.56"/>
-  <rect class="cls-2" x="310.64" y="156.8" width="17.71" height="36.84"/>
-  <polygon class="cls-2" points="330.06 156.8 330.06 195.26 310.58 195.26 310.58 211.6 346.49 211.6 346.49 156.8 330.06 156.8"/>
-  <rect class="cls-2" x="344.69" y="218.01" width="8.58" height="35.84"/>
-  <rect class="cls-2" x="354.7" y="218.01" width="8.03" height="35.56"/>
-  <polygon class="cls-2" points="353.26 156.8 353.26 211.6 371.22 211.6 371.22 195.45 368.42 195.45 368.42 156.8 353.26 156.8"/>
-  <polygon class="cls-2" points="370.05 156.8 370.05 193.64 372.76 193.64 372.76 211.6 373.93 211.6 373.93 204.38 402.27 204.38 402.27 156.39 370.05 156.8"/>
-  <polygon class="cls-2" points="403.81 156.39 403.81 205.65 375.47 205.65 375.47 211.6 438.02 211.6 438.02 156.39 403.81 156.39"/>
-  <rect class="cls-2" x="364.36" y="218.01" width="11.1" height="35.56"/>
-  <rect class="cls-2" x="377.18" y="218.01" width="10.83" height="35.56"/>
-  <polyline class="cls-2" points="392.16 236.61 392.16 253.58 400.2 253.58 400.2 236.61 392.62 236.61"/>
-  <rect class="cls-2" x="401.89" y="236.61" width="9.68" height="16.97"/>
-  <polygon class="cls-2" points="392.16 218.01 392.16 235.16 413.29 235.16 413.29 253.58 442.53 253.58 442.53 218.01 392.16 218.01"/>
-  <rect class="cls-2" x="444.07" y="218.01" width="10.65" height="35.56"/>
-  <rect class="cls-2" x="444.07" y="156.39" width="11.73" height="27.6"/>
-  <polygon class="cls-2" points="457.25 156.39 457.25 185.61 444.07 185.61 444.07 212.87 483.06 212.87 483.06 155.79 457.25 156.39"/>
-  <rect class="cls-2" x="484.5" y="155.79" width="25.64" height="57.07"/>
-  <polygon class="cls-2" points="511.67 155.79 511.67 187.86 522.87 187.86 522.87 176.13 530.31 176.13 530.31 155.79 511.67 155.79"/>
-  <polygon class="cls-2" points="511.67 189.31 511.67 212.87 530.31 212.87 530.31 177.66 524.67 177.66 524.67 189.49 511.67 189.31"/>
-  <rect class="cls-2" x="459.86" y="234.44" width="10.11" height="19.14"/>
-  <rect class="cls-2" x="471.6" y="234.44" width="11.15" height="19.14"/>
-  <rect class="cls-2" x="483.83" y="234.44" width="7.36" height="19.14"/>
-  <polygon class="cls-2" points="459.86 218.01 459.86 232.91 492.72 232.91 492.72 253.58 530.31 253.58 530.31 218.01 459.86 218.01"/>
-  <polygon class="cls-2" points="537.71 155.79 537.71 212.87 588.79 212.87 588.79 155.62 537.71 155.79"/>
-  <polygon class="cls-2" points="590.54 155.62 590.54 223.99 650.23 223.99 650.23 211.02 640.36 211.02 640.36 155.14 590.54 155.62"/>
-  <polygon class="cls-2" points="641.81 155.14 641.81 209.38 651.77 209.38 651.77 215.09 664.16 215.09 664.16 198.84 668.41 198.84 668.41 155.14 641.81 155.14"/>
-  <rect class="cls-2" x="537.6" y="242.95" width="7.75" height="10.63"/>
-  <polygon class="cls-2" points="537.6 218.38 537.6 241.6 547 241.6 547 253.58 585.6 253.58 585.6 218.38 537.6 218.38"/>
-  <rect class="cls-2" x="587.05" y="244.01" width="8.42" height="9.56"/>
-  <polygon class="cls-2" points="587.05 229.5 587.05 242.66 597.11 242.66 597.11 253.58 625.75 253.58 625.75 229.5 587.05 229.5"/>
-  <rect class="cls-2" x="627.39" y="229.5" width="8.42" height="24.07"/>
-  <rect class="cls-2" x="637.26" y="229.5" width="12.96" height="24.07"/>
-  <rect class="cls-2" x="657.09" y="235.98" width="8.61" height="17.6"/>
-  <polygon class="cls-2" points="669.31 203.96 669.31 220.02 657.09 220.02 657.09 234.19 666.96 234.19 666.96 253.58 683.41 253.58 683.41 203.96 669.31 203.96"/>
-  <polygon class="cls-2" points="685.15 203.96 685.15 253.58 701.79 253.58 701.79 233.47 711.08 233.47 711.08 203.96 685.15 203.96"/>
-  <rect class="cls-2" x="670.25" y="155.14" width="8.32" height="16.51"/>
-  <polygon class="cls-2" points="680.12 155.14 680.12 173.2 670.25 173.2 670.25 198.64 694.53 198.64 694.53 155.14 680.12 155.14"/>
-  <rect class="cls-2" x="696.08" y="155.14" width="12.96" height="43.5"/>
-  <rect class="cls-2" x="710.59" y="155.14" width="9.48" height="43.5"/>
-  <rect class="cls-2" x="721.72" y="155.14" width="9.87" height="43.5"/>
-  <polygon class="cls-2" points="733.04 155.14 733.04 198.64 754.42 198.64 754.42 187.71 742.36 187.71 742.36 155.14 733.04 155.14"/>
-  <rect class="cls-2" x="744.16" y="154.63" width="10.57" height="31.63"/>
-  <polygon class="cls-2" points="756.26 154.63 756.26 198.64 765.64 198.64 765.64 189.56 779.57 189.56 779.57 183.55 774.25 183.55 774.25 154.63 756.26 154.63"/>
-  <rect class="cls-2" x="775.77" y="154.63" width="7.39" height="27.18"/>
-  <polygon class="cls-2" points="784.89 155.14 784.89 181.81 791.95 181.81 791.95 157.14 784.89 155.14"/>
-  <polygon class="cls-2" points="793.41 157.53 793.41 181.81 808.93 181.81 808.93 175.04 805.79 160.91 793.41 157.53"/>
-  <rect class="cls-2" x="703.43" y="235.04" width="7.64" height="18.53"/>
-  <polygon class="cls-2" points="712.63 203.96 712.63 253.58 741.55 253.58 741.55 222.73 751.13 222.73 751.13 203.96 712.63 203.96"/>
-  <path class="cls-2" d="M743.36,224.01v29.57h7.77v-29.59s-8.28.02-7.77.02Z"/>
-  <polygon class="cls-2" points="755.3 218.47 755.3 253.58 770.86 253.58 770.86 229.5 775.05 229.5 775.05 218.47 755.3 218.47"/>
-  <rect class="cls-2" x="772.51" y="230.92" width="15.91" height="22.66"/>
-  <polygon class="cls-2" points="789.83 241.62 789.83 253.58 803.56 253.58 808.11 241.54 789.83 241.62"/>
-  <polygon class="cls-2" points="789.83 230.92 789.83 240.14 808.11 240.14 808.93 238.78 808.93 230.92 789.83 230.92"/>
-  <polygon class="cls-2" points="770.57 214.29 770.57 217.12 776.57 217.12 776.57 229.5 808.93 229.5 808.93 214.29 770.57 214.29"/>
-  <polygon class="cls-2" points="755.3 203.67 755.3 214.29 769.32 214.29 769.32 212.96 808.93 212.96 808.93 197.38 784.89 197.38 784.89 201.93 770.57 201.93 770.57 203.96 755.3 203.67"/>
-  <rect class="cls-2" x="784.89" y="187.52" width="24.04" height="8.42"/>
+  <polygon id="ERA_IasiGF164" data-name="ERA IasiGF164" class="cls-2" points="177.15 157.53 170.38 174.5 178.87 174.5 178.87 189.58 196.83 189.58 196.83 157.53 177.15 157.53"/>
+  <polygon id="ERA_IasiGF163" data-name="ERA IasiGF163" class="cls-2" points="169.77 176.04 165.78 185.97 177.42 185.97 177.42 176.04 169.77 176.04"/>
+  <polygon id="ERA_IasiGF162" data-name="ERA IasiGF162" class="cls-2" points="165.33 187.23 162.34 194.45 177.42 194.45 177.42 187.23 165.33 187.23"/>
+  <polygon id="ERA_IasiGF161" data-name="ERA IasiGF161" class="cls-2" points="161.9 195.81 158.74 203.75 177.42 203.75 177.42 195.81 161.9 195.81"/>
+  <polygon id="ERA_IasiGF160" data-name="ERA IasiGF160" class="cls-2" points="158.2 205.19 157.3 207.63 163.52 213.59 177.42 213.59 177.42 205.19 158.2 205.19"/>
+  <rect id="ERA_IasiGF165_GF166" data-name="ERA IasiGF165_GF166" class="cls-2" x="198.55" y="157.53" width="27.61" height="56.05"/>
+  <polygon id="ERA_IasiGF80" data-name="ERA IasiGF80" class="cls-2" points="227.7 157.53 227.7 213.59 246.3 213.59 246.3 190.27 242.87 190.27 242.87 157.53 227.7 157.53"/>
+  <polygon id="ERA_IasiGF159_2" data-name="ERA IasiGF159_2" class="cls-2" points="167.9 218.01 180.13 229.48 206.22 229.48 206.22 218.01 167.9 218.01"/>
+  <polygon id="ERA_IasiGF159_1" data-name="ERA IasiGF159_1" class="cls-2" points="180.31 230.92 180.31 237.78 201.25 237.78 201.25 239.59 206.22 239.59 206.22 230.92 180.31 230.92"/>
+  <rect id="ERA_IasiGF158" data-name="ERA IasiGF158" class="cls-2" x="180.31" y="239.13" width="19.32" height="14.44"/>
+  <rect id="ERA_IasiGF157" data-name="ERA IasiGF157" class="cls-2" x="205.68" y="245.27" width="5.15" height="8.3"/>
+  <rect id="ERA_IasiGF156" data-name="ERA IasiGF156" class="cls-2" x="212.35" y="218.01" width="15.35" height="35.56"/>
+  <rect id="ERA_IasiGF155" data-name="ERA IasiGF155" class="cls-2" x="229.24" y="218.01" width="17.42" height="35.56"/>
+  <polygon id="ERA_IasiGF167" data-name="ERA IasiGF167" class="cls-2" points="252.43 156.8 252.43 193.55 265.97 193.55 265.97 211.6 279.42 211.6 279.42 156.8 252.43 156.8"/>
+  <polygon id="ERA_IasiGF153" data-name="ERA IasiGF153" class="cls-2" points="260.65 218.01 260.65 253.58 275.27 253.58 275.27 238.05 282.94 238.05 282.94 230.92 275.72 230.92 275.72 218.01 260.65 218.01"/>
+  <rect id="ERA_IasiGF152" data-name="ERA IasiGF152" class="cls-2" x="276.6" y="239.59" width="6.35" height="14.26"/>
+  <rect id="ERA_IasiGF151" data-name="ERA IasiGF151" class="cls-2" x="284.48" y="240.3" width="8.21" height="13.27"/>
+  <polygon id="ERA_IasiGF150" data-name="ERA IasiGF150" class="cls-2" points="284.48 218.01 284.48 238.74 294.41 238.74 294.41 253.58 305.69 253.58 305.69 238.74 314 238.74 314 218.01 284.48 218.01"/>
+  <polygon id="ERA_IasiGF81" data-name="ERA IasiGF81" class="cls-2" points="280.96 156.8 280.96 211.6 306.45 211.6 306.45 200.77 296.48 200.77 296.48 156.8 280.96 156.8"/>
+  <polygon id="ERA_IasiGF82" data-name="ERA IasiGF82" class="cls-2" points="298.11 156.8 298.11 199.06 306.45 199.06 306.45 190.27 309.12 190.27 309.12 156.8 298.11 156.8"/>
+  <rect id="ERA_IasiGF149" data-name="ERA IasiGF149" class="cls-2" x="307.16" y="240.3" width="6.84" height="13.27"/>
+  <rect id="ERA_IasiGF148" data-name="ERA IasiGF148" class="cls-2" x="315.71" y="218.01" width="7.85" height="35.56"/>
+  <rect id="ERA_IasiGF147" data-name="ERA IasiGF147" class="cls-2" x="325.1" y="218.01" width="15.62" height="35.56"/>
+  <rect id="ERA_IasiGF83_GF84" data-name="ERA IasiGF83_GF84" class="cls-2" x="310.64" y="156.8" width="17.71" height="36.84"/>
+  <polygon id="ERA_IasiGF85" data-name="ERA IasiGF85" class="cls-2" points="330.06 156.8 330.06 195.26 310.58 195.26 310.58 211.6 346.49 211.6 346.49 156.8 330.06 156.8"/>
+  <rect id="ERA_IasiGF146" data-name="ERA IasiGF146" class="cls-2" x="344.69" y="218.01" width="8.58" height="35.84"/>
+  <rect id="ERA_IasiGF145" data-name="ERA IasiGF145" class="cls-2" x="354.7" y="218.01" width="8.03" height="35.56"/>
+  <polygon id="ERA_IasiGF86" data-name="ERA IasiGF86" class="cls-2" points="353.26 156.8 353.26 211.6 371.22 211.6 371.22 195.45 368.42 195.45 368.42 156.8 353.26 156.8"/>
+  <polygon id="ERA_IasiGF88" data-name="ERA IasiGF88" class="cls-2" points="370.05 156.8 370.05 193.64 372.76 193.64 372.76 211.6 373.93 211.6 373.93 204.38 402.27 204.38 402.27 156.39 370.05 156.8"/>
+  <polygon id="ERA_IasiGF87" data-name="ERA IasiGF87" class="cls-2" points="403.81 156.39 403.81 205.65 375.47 205.65 375.47 211.6 438.02 211.6 438.02 156.39 403.81 156.39"/>
+  <rect id="ERA_IasiGF144" data-name="ERA IasiGF144" class="cls-2" x="364.36" y="218.01" width="11.1" height="35.56"/>
+  <rect id="ERA_IasiGF143" data-name="ERA IasiGF143" class="cls-2" x="377.18" y="218.01" width="10.83" height="35.56"/>
+  <polyline id="ERA_IasiGF142" data-name="ERA IasiGF142" class="cls-2" points="392.16 236.61 392.16 253.58 400.2 253.58 400.2 236.61 392.62 236.61"/>
+  <rect id="ERA_IasiGF140" data-name="ERA IasiGF140" class="cls-2" x="401.89" y="236.61" width="9.68" height="16.97"/>
+  <polygon id="ERA_IasiGF139" data-name="ERA IasiGF139" class="cls-2" points="392.16 218.01 392.16 235.16 413.29 235.16 413.29 253.58 442.53 253.58 442.53 218.01 392.16 218.01"/>
+  <rect id="ERA_IasiGF138" data-name="ERA IasiGF138" class="cls-2" x="444.07" y="218.01" width="10.65" height="35.56"/>
+  <rect id="ERA_IasiGF90" data-name="ERA IasiGF90" class="cls-2" x="444.07" y="156.39" width="11.73" height="27.6"/>
+  <polygon id="ERA_IasiGF92" data-name="ERA IasiGF92" class="cls-2" points="457.25 156.39 457.25 185.61 444.07 185.61 444.07 212.87 483.06 212.87 483.06 155.79 457.25 156.39"/>
+  <rect id="ERA_IasiGF93" data-name="ERA IasiGF93" class="cls-2" x="484.5" y="155.79" width="25.64" height="57.07"/>
+  <polygon id="ERA_IasiGF94" data-name="ERA IasiGF94" class="cls-2" points="511.67 155.79 511.67 187.86 522.87 187.86 522.87 176.13 530.31 176.13 530.31 155.79 511.67 155.79"/>
+  <rect id="ERA_IasiGF136" data-name="ERA IasiGF136" class="cls-2" x="459.86" y="234.44" width="10.11" height="19.14"/>
+  <rect id="ERA_IasiGF137" data-name="ERA IasiGF137" class="cls-2" x="471.6" y="234.44" width="11.15" height="19.14"/>
+  <rect id="ERA_IasiGF135" data-name="ERA IasiGF135" class="cls-2" x="483.83" y="234.44" width="7.36" height="19.14"/>
+  <polygon id="ERA_IasiGF132" data-name="ERA IasiGF132" class="cls-2" points="459.86 218.01 459.86 232.91 492.72 232.91 492.72 253.58 530.31 253.58 530.31 218.01 459.86 218.01"/>
+  <polygon id="ERA_IasiGF96" data-name="ERA IasiGF96" class="cls-2" points="537.71 155.79 537.71 212.87 588.79 212.87 588.79 155.62 537.71 155.79"/>
+  <polygon id="ERA_IasiGF97" data-name="ERA IasiGF97" class="cls-2" points="590.54 155.62 590.54 223.99 650.23 223.99 650.23 211.02 640.36 211.02 640.36 155.14 590.54 155.62"/>
+  <polygon id="ERA_IasiGF98" data-name="ERA IasiGF98" class="cls-2" points="641.81 155.14 641.81 209.38 651.77 209.38 651.77 215.09 664.16 215.09 664.16 198.84 668.41 198.84 668.41 155.14 641.81 155.14"/>
+  <rect id="ERA_IasiGF131" data-name="ERA IasiGF131" class="cls-2" x="537.6" y="242.95" width="7.75" height="10.63"/>
+  <polygon id="ERA_IasiGF130" data-name="ERA IasiGF130" class="cls-2" points="537.6 218.38 537.6 241.6 547 241.6 547 253.58 585.6 253.58 585.6 218.38 537.6 218.38"/>
+  <rect id="ERA_IasiGF127" data-name="ERA IasiGF127" class="cls-2" x="587.05" y="244.01" width="8.42" height="9.56"/>
+  <polygon id="ERA_IasiGF128" data-name="ERA IasiGF128" class="cls-2" points="587.05 229.5 587.05 242.66 597.11 242.66 597.11 253.58 625.75 253.58 625.75 229.5 587.05 229.5"/>
+  <rect id="ERA_IasiGF124" data-name="ERA IasiGF124" class="cls-2" x="627.39" y="229.5" width="8.42" height="24.07"/>
+  <rect id="ERA_IasiGF123" data-name="ERA IasiGF123" class="cls-2" x="637.26" y="229.5" width="12.96" height="24.07"/>
+  <rect id="ERA_IasiGF122_1" data-name="ERA IasiGF122_1" class="cls-2" x="657.09" y="235.98" width="8.61" height="17.6"/>
+  <polygon id="ERA_IasiGF122_2" data-name="ERA IasiGF122_2" class="cls-2" points="669.31 203.96 669.31 220.02 657.09 220.02 657.09 234.19 666.96 234.19 666.96 253.58 683.41 253.58 683.41 203.96 669.31 203.96"/>
+  <polygon id="ERA_IasiGF121" data-name="ERA IasiGF121" class="cls-2" points="685.15 203.96 685.15 253.58 701.79 253.58 701.79 233.47 711.08 233.47 711.08 203.96 685.15 203.96"/>
+  <rect id="ERA_IasiGF101" data-name="ERA IasiGF101" class="cls-2" x="670.25" y="155.14" width="8.32" height="16.51"/>
+  <polygon id="ERA_IasiGF100" data-name="ERA IasiGF100" class="cls-2" points="680.12 155.14 680.12 173.2 670.25 173.2 670.25 198.64 694.53 198.64 694.53 155.14 680.12 155.14"/>
+  <rect id="ERA_IasiGF102" data-name="ERA IasiGF102" class="cls-2" x="696.08" y="155.14" width="12.96" height="43.5"/>
+  <rect id="ERA_IasiGF99" data-name="ERA IasiGF99" class="cls-2" x="710.59" y="155.14" width="9.48" height="43.5"/>
+  <rect id="ERA_IasiGF103" data-name="ERA IasiGF103" class="cls-2" x="721.72" y="155.14" width="9.87" height="43.5"/>
+  <polygon id="ERA_IasiGF104_1" data-name="ERA IasiGF104_1" class="cls-2" points="733.04 155.14 733.04 198.64 754.42 198.64 754.42 187.71 742.36 187.71 742.36 155.14 733.04 155.14"/>
+  <rect id="ERA_IasiGF104_2" data-name="ERA IasiGF104_2" class="cls-2" x="744.16" y="154.63" width="10.57" height="31.63"/>
+  <polygon id="ERA_IasiGF105" data-name="ERA IasiGF105" class="cls-2" points="756.26 154.63 756.26 198.64 765.64 198.64 765.64 189.56 779.57 189.56 779.57 183.55 774.25 183.55 774.25 154.63 756.26 154.63"/>
+  <rect id="ERA_IasiGF106" data-name="ERA IasiGF106" class="cls-2" x="775.77" y="154.63" width="7.39" height="27.18"/>
+  <polygon id="ERA_IasiGF107" data-name="ERA IasiGF107" class="cls-2" points="784.89 155.14 784.89 181.81 791.95 181.81 791.95 157.14 784.89 155.14"/>
+  <polygon id="ERA_IasiGF108" data-name="ERA IasiGF108" class="cls-2" points="793.41 157.53 793.41 181.81 808.93 181.81 808.93 175.04 805.79 160.91 793.41 157.53"/>
+  <rect id="ERA_IasiGF120" data-name="ERA IasiGF120" class="cls-2" x="703.43" y="235.04" width="7.64" height="18.53"/>
+  <polygon id="ERA_IasiGF119" data-name="ERA IasiGF119" class="cls-2" points="712.63 203.96 712.63 253.58 741.55 253.58 741.55 222.73 751.13 222.73 751.13 203.96 712.63 203.96"/>
+  <path id="ERA_IasiGF118" data-name="ERA IasiGF118" class="cls-2" d="M743.36,224.01v29.57h7.77v-29.59s-8.28.02-7.77.02Z"/>
+  <polygon id="ERA_IasiGF115" data-name="ERA IasiGF115" class="cls-2" points="755.3 218.47 755.3 253.58 770.86 253.58 770.86 229.5 775.05 229.5 775.05 218.47 755.3 218.47"/>
+  <rect id="ERA_IasiGF114" data-name="ERA IasiGF114" class="cls-2" x="772.51" y="230.92" width="15.91" height="22.66"/>
+  <polygon id="ERA_IasiGF113" data-name="ERA IasiGF113" class="cls-2" points="789.83 241.62 789.83 253.58 803.56 253.58 808.11 241.54 789.83 241.62"/>
+  <polygon id="ERA_IasiGF112" data-name="ERA IasiGF112" class="cls-2" points="789.83 230.92 789.83 240.14 808.11 240.14 808.93 238.78 808.93 230.92 789.83 230.92"/>
+  <polygon id="ERA_IasiGF110" data-name="ERA IasiGF110" class="cls-2" points="770.57 214.29 770.57 217.12 776.57 217.12 776.57 229.5 808.93 229.5 808.93 214.29 770.57 214.29"/>
+  <polygon id="ERA_IasiGF109" data-name="ERA IasiGF109" class="cls-2" points="755.3 203.67 755.3 214.29 769.32 214.29 769.32 212.96 808.93 212.96 808.93 197.38 784.89 197.38 784.89 201.93 770.57 201.93 770.57 203.96 755.3 203.67"/>
+  <rect id="ERA_IasiGF111" data-name="ERA IasiGF111" class="cls-2" x="784.89" y="187.52" width="24.04" height="8.42"/>
 </svg>
