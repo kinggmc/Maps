@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 465.28 513.56">
+<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 465.28 513.56">
   <defs>
     <style>
       .cls-1 {
@@ -188,18 +188,18 @@
     <text class="cls-13" transform="translate(312.79 401.99) scale(.85 1)"><tspan x="0" y="0">ALADIN</tspan></text>
     <text class="cls-14" transform="translate(326.11 329.43) scale(.85 1)"><tspan x="0" y="0">BMS</tspan></text>
   </g>
-  <polygon id="Galleria_Burgas2.000" class="cls-2" points="36.23 15.65 36.23 107.04 6.26 107.04 6.26 271.04 36.23 271.04 36.23 326.05 169.93 326.05 169.93 247.78 141.33 247.78 141.33 159.97 158.33 159.97 158.33 15.65 36.23 15.65"/>
-  <rect id="Galleria_BurgasFC2_x5E_S2.4_x5E_S2.6" class="cls-2" x="171.83" y="307.41" width="25.44" height="18.64"/>
-  <rect id="Galleria_BurgasFC1" class="cls-2" x="171.83" y="270.51" width="25.44" height="35.42"/>
-  <polygon id="Galleria_Burgas2.018" class="cls-2" points="37.2 338.32 37.2 502.2 203.98 481.86 203.98 338.32 37.2 338.32"/>
-  <polygon id="Galleria_BurgasFC8_x5E_S2.3_x5E_S2.5" class="cls-2" points="348.68 417.3 301.59 417.3 296.62 442.67 348.68 451.19 348.68 417.3"/>
-  <polygon id="Galleria_BurgasFC3_x5E_WAD_x5F_25" class="cls-2" points="348.68 415.7 348.68 404.79 358.28 404.79 358.28 385.3 307.19 385.3 301.99 415.7 348.68 415.7"/>
-  <polygon id="Galleria_BurgasFC6" class="cls-2" points="358.28 383.76 307.65 383.76 310.45 366.56 340.85 366.56 340.85 373.07 358.28 373.07 358.28 383.76"/>
-  <polygon id="Galleria_BurgasFC7_x5E_NAD_x5F_45" class="cls-2" points="358.28 371.64 358.28 340.04 314.62 340.04 310.79 364.96 342.1 364.96 342.1 371.64 358.28 371.64"/>
-  <polygon id="Galleria_BurgasFC5" class="cls-2" points="358.28 338.56 314.9 338.56 319.08 308.56 358.96 308.56 358.96 311.85 358.28 311.85 358.28 338.56"/>
-  <polygon id="Galleria_Burgas2.016" class="cls-2" points="426.68 240.21 426.68 311.85 360.45 311.85 360.45 307.19 319.3 307.19 323.48 273.36 371.25 273.36 371.25 240.21 426.68 240.21"/>
-  <polygon id="Galleria_Burgas2.014_x5E_SA2.1B" class="cls-2" points="369.59 240.21 369.59 272.04 323.59 272.04 326.85 240.21 369.59 240.21"/>
-  <polygon id="Galleria_Burgas2.012" class="cls-2" points="440.33 238.5 327.25 238.5 329.65 207.83 371.19 207.83 371.19 190.5 382.22 190.5 382.22 183.07 440.33 183.07 440.33 238.5"/>
-  <polygon id="Galleria_Burgas2.010" class="cls-2" points="369.59 190.44 369.59 206.27 329.76 206.27 331.7 172.04 358.33 172.04 358.33 183.07 358.96 183.07 358.96 190.5 369.59 190.44"/>
-  <path id="Galleria_Burgas2.002_x5E_NAD_x5F_11" class="cls-2" d="M170.79,6.1v143.23h39.38v-21.32c2.01-12.25,8.7-13.26,16.06-15.71h57.32c31.58,1,28.57,48.19,28.57,48.19h46.18V38.56h-51.87V6.1h-135.64Z"/>
+  <polygon id="Galleria_Burgas2.000" data-name="Galleria Burgas2.000" class="cls-2" points="36.23 15.65 36.23 107.04 6.26 107.04 6.26 271.04 36.23 271.04 36.23 326.05 169.93 326.05 169.93 247.78 141.33 247.78 141.33 159.97 158.33 159.97 158.33 15.65 36.23 15.65"/>
+  <rect id="Galleria_BurgasFC2_S2.4_S2.6" data-name="Galleria BurgasFC2^S2.4^S2.6" class="cls-2" x="171.83" y="307.41" width="25.44" height="18.64"/>
+  <rect id="Galleria_BurgasFC1" data-name="Galleria BurgasFC1" class="cls-2" x="171.83" y="270.51" width="25.44" height="35.42"/>
+  <polygon id="Galleria_Burgas2.018_NAD_10_S2.6" data-name="Galleria Burgas2.018^NAD_10^S2.6" class="cls-2" points="37.2 338.32 37.2 502.2 203.98 481.86 203.98 338.32 37.2 338.32"/>
+  <polygon id="Galleria_BurgasFC8_S2.3_S2.5" data-name="Galleria BurgasFC8^S2.3^S2.5" class="cls-2" points="348.68 417.3 301.59 417.3 296.62 442.67 348.68 451.19 348.68 417.3"/>
+  <polygon id="Galleria_BurgasFC3_WAD_25" data-name="Galleria BurgasFC3^WAD_25" class="cls-2" points="348.68 415.7 348.68 404.79 358.28 404.79 358.28 385.3 307.19 385.3 301.99 415.7 348.68 415.7"/>
+  <polygon id="Galleria_BurgasFC6" data-name="Galleria BurgasFC6" class="cls-2" points="358.28 383.76 307.65 383.76 310.45 366.56 340.85 366.56 340.85 373.07 358.28 373.07 358.28 383.76"/>
+  <polygon id="Galleria_BurgasFC7_NAD_45" data-name="Galleria BurgasFC7^NAD_45" class="cls-2" points="358.28 371.64 358.28 340.04 314.62 340.04 310.79 364.96 342.1 364.96 342.1 371.64 358.28 371.64"/>
+  <polygon id="Galleria_BurgasFC5" data-name="Galleria BurgasFC5" class="cls-2" points="358.28 338.56 314.9 338.56 319.08 308.56 358.96 308.56 358.96 311.85 358.28 311.85 358.28 338.56"/>
+  <polygon id="Galleria_Burgas2.016" data-name="Galleria Burgas2.016" class="cls-2" points="426.68 240.21 426.68 311.85 360.45 311.85 360.45 307.19 319.3 307.19 323.48 273.36 371.25 273.36 371.25 240.21 426.68 240.21"/>
+  <polygon id="Galleria_Burgas2.014_SA2.1B" data-name="Galleria Burgas2.014^SA2.1B" class="cls-2" points="369.59 240.21 369.59 272.04 323.59 272.04 326.85 240.21 369.59 240.21"/>
+  <polygon id="Galleria_Burgas2.012" data-name="Galleria Burgas2.012" class="cls-2" points="440.33 238.5 327.25 238.5 329.65 207.83 371.19 207.83 371.19 190.5 382.22 190.5 382.22 183.07 440.33 183.07 440.33 238.5"/>
+  <polygon id="Galleria_Burgas2.010" data-name="Galleria Burgas2.010" class="cls-2" points="369.59 190.44 369.59 206.27 329.76 206.27 331.7 172.04 358.33 172.04 358.33 183.07 358.96 183.07 358.96 190.5 369.59 190.44"/>
+  <path id="Galleria_Burgas2.002_NAD_11" data-name="Galleria Burgas2.002^NAD_11" class="cls-2" d="M170.79,6.1v143.23h39.38v-21.32c2.01-12.25,8.7-13.26,16.06-15.71h57.32c31.58,1,28.57,48.19,28.57,48.19h46.18V38.56h-51.87V6.1h-135.64Z"/>
 </svg>
