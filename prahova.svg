@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1145.68 509.53">
+<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1145.68 509.53">
   <defs>
     <style>
       .cls-1 {
@@ -30,11 +30,11 @@
         font-weight: 700;
       }
 
-      .cls-5, .cls-6, .cls-7, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-20, .cls-21 {
+      .cls-5, .cls-6, .cls-7, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-20, .cls-21 {
         font-family: BerlinSansFBDemi-Bold, 'Berlin Sans FB Demi';
       }
 
-      .cls-5, .cls-6, .cls-22, .cls-9, .cls-10, .cls-11, .cls-23, .cls-12, .cls-13, .cls-14, .cls-24, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21 {
+      .cls-5, .cls-6, .cls-22, .cls-9, .cls-10, .cls-11, .cls-12, .cls-23, .cls-13, .cls-14, .cls-15, .cls-16, .cls-24, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21 {
         fill: #231f20;
       }
 
@@ -59,7 +59,7 @@
         font-size: 26.46px;
       }
 
-      .cls-8, .cls-18 {
+      .cls-8, .cls-19 {
         font-family: Axiforma-Bold, 'Axiforma Bold';
       }
 
@@ -72,10 +72,14 @@
       }
 
       .cls-10 {
-        font-size: 9.04px;
+        font-size: 3.87px;
       }
 
       .cls-11 {
+        font-size: 9.04px;
+      }
+
+      .cls-12 {
         font-size: 8.27px;
       }
 
@@ -88,16 +92,20 @@
         font-size: 27.12px;
       }
 
-      .cls-12 {
-        font-size: 4.95px;
-      }
-
       .cls-13 {
-        font-size: 3.25px;
+        font-size: 8.31px;
       }
 
       .cls-14 {
-        font-size: 3.66px;
+        font-size: 4.95px;
+      }
+
+      .cls-15 {
+        font-size: 3.25px;
+      }
+
+      .cls-16 {
+        font-size: 7.27px;
       }
 
       .cls-30 {
@@ -109,11 +117,7 @@
         fill-rule: evenodd;
       }
 
-      .cls-15 {
-        font-size: 3.87px;
-      }
-
-      .cls-16 {
+      .cls-17 {
         font-size: 5.49px;
       }
 
@@ -121,11 +125,11 @@
         font-size: 12px;
       }
 
-      .cls-17 {
-        font-size: 7.27px;
+      .cls-18 {
+        font-size: 3.66px;
       }
 
-      .cls-18 {
+      .cls-19 {
         font-size: 10.52px;
       }
 
@@ -135,10 +139,6 @@
 
       .cls-34 {
         font-size: 9.74px;
-      }
-
-      .cls-19 {
-        font-size: 8.31px;
       }
 
       .cls-20 {
@@ -244,7 +244,7 @@
     <line class="cls-4" x1="879.06" y1="354.67" x2="879.06" y2="391.9"/>
   </g>
   <g id="logo">
-    <text class="cls-18" transform="translate(255.77 133.3) rotate(-90)"><tspan x="0" y="0">NORIEL</tspan></text>
+    <text class="cls-19" transform="translate(255.77 133.3) rotate(-90)"><tspan x="0" y="0">NORIEL</tspan></text>
     <path class="cls-25" d="M830.75,21.15c0-.89-.73-1.62-1.62-1.62h-10.57c-.89,0-1.62.72-1.62,1.62v10.57c0,.9.72,1.62,1.62,1.62h10.57c.89,0,1.62-.72,1.62-1.62v-10.57ZM826.85,21.58c.45,0,.81.36.81.81,0,.45-.36.81-.81.81s-.81-.36-.81-.81c0-.44.36-.81.81-.81ZM820.63,21.58c.45,0,.81.36.81.81,0,.45-.36.81-.81.81s-.81-.36-.81-.81c0-.44.36-.81.81-.81ZM822.24,23.89l-.22,2.7c-.02.17-.12.32-.29.38h0c-.16.07-.27.21-.28.39l-.21,3.51c-.02.24-.21.42-.45.42h-.3c-.24,0-.43-.18-.45-.42l-.21-3.51c-.01-.17-.12-.33-.28-.39-.16-.06-.27-.21-.29-.38l-.22-2.7c-.02-.22.13-.43.35-.47l.22-.05c.15-.03.3,0,.41.12l.31.31c.17.17.46.17.63,0l.31-.31c.11-.11.26-.15.41-.12l.22.05c.2.05.35.26.33.48ZM823.95,31.28c0,.12-.1.21-.22.21s-.22-.1-.22-.21v-9.7c0-.12.1-.22.22-.22s.22.1.22.22v9.7ZM828.44,26.97c-.15.04-.25.18-.23.34l.09.69c.02.16-.09.32-.25.34l-.21.02c-.14.02-.25.14-.26.28l-.14,2.22c-.02.24-.21.42-.45.42h-.3c-.24,0-.43-.18-.45-.42l-.14-2.22c0-.15-.12-.26-.26-.28l-.21-.02c-.16-.02-.28-.18-.25-.34l.09-.69c.02-.15-.07-.3-.23-.34-.16-.04-.25-.19-.22-.35l.61-2.89c.04-.21.28-.31.46-.19l.57.37c.09.06.22.06.33,0l.57-.37c.18-.11.41-.02.46.19l.61,2.89c.03.16-.07.31-.23.35Z"/>
     <g>
       <polygon class="cls-25" points="786.74 344.4 783.34 338.62 787.31 338.54 790.71 344.32 787.54 350.23 783.57 350.31 786.74 344.4"/>
@@ -333,7 +333,7 @@
       <path class="cls-22" d="M393.07,133.29c-.22,1.5-1.41,2.3-2.87,1.96-.13-.03-.29-.25-.3-.39-.03-.7-.03-1.4,0-2.09,0-.13.19-.34.32-.37.55-.1.73-.41.72-.94-.02-1.34-.01-2.68-.01-4.01,0-.43-.12-.76-.64-.79-.52-.03-.63.3-.64.7-.06,1.41-.11,2.83-.17,4.24-.02.56-.05,1.12-.11,1.68-.11,1-.69,1.7-1.66,1.82-.7.09-1.43.08-2.14,0-1.05-.12-1.71-.78-1.82-1.82-.25-2.41-.3-4.83.02-7.25.17-1.28.98-2.2,3.02-1.81,0,.81.02,1.64,0,2.47,0,.11-.18.3-.3.32-.4.07-.59.33-.59.68,0,1.32,0,2.64.04,3.95,0,.21.17.5.34.6.4.23.77-.05.8-.58.08-1.53.14-3.06.22-4.59.02-.46.06-.93.12-1.39.16-1.12.76-1.77,1.89-1.87.71-.06,1.44-.02,2.14.09.93.14,1.56.78,1.62,1.72.12,1.7.15,3.4.17,5.11,0,.85-.04,1.71-.16,2.55Z"/>
       <path class="cls-22" d="M393.1,29.28c-.07,1.41-.08,2.77-.21,4.12-.13,1.44-.7,2.06-2.12,2.27-1.75.25-3.52.27-5.27-.02-1.25-.21-1.95-.94-1.98-2.21-.06-2.71-.07-5.42-.01-8.13.03-1.32.86-2.13,2.18-2.2,1.68-.08,3.37-.08,5.05,0,1.24.05,2.01.83,2.13,2.06.13,1.39.17,2.78.24,4.12ZM390.42,29.4s.06,0,.09,0c-.04-.83-.07-1.66-.13-2.49-.04-.6-.43-.91-.99-.94-.75-.03-1.51-.05-2.26.01-.79.06-1.1.34-1.11,1.01-.03,1.62-.02,3.25.01,4.87.01.53.35.86.89.88.79.03,1.58.06,2.37.02.79-.04,1.04-.27,1.12-1.05.07-.77.01-1.55.01-2.32Z"/>
     </g>
-    <g id="Brandingmodul_x5F_Deichmann_x5F_quadratisch_x5F_vertikal">
+    <g id="Brandingmodul_Deichmann_quadratisch_vertikal">
       <path id="Deichmann" class="cls-22" d="M424.41,125.55c1.09,0,2.2.46,2.21,1.77v1.68s-4.36.03-4.36.03v-1.5c-.02-1.22.68-1.97,2.15-1.98M424.41,123.22c-2.19.01-3.95,1.35-3.94,3.99,0,.16.02,4.13.02,4.13l7.93-.05s-.02-3.96-.02-4.13c-.02-2.64-1.8-3.95-3.99-3.94M428.37,121.86l-.04-6.7h-1.71s.03,4.42.03,4.42h-1.43s-.02-3.65-.02-3.65h-1.64s.02,3.67.02,3.67h-1.43s-.03-4.4-.03-4.4h-1.71s.04,6.71.04,6.71l7.93-.05ZM428.32,113.53v-2.29s-7.94.05-7.94.05v2.29s7.94-.05,7.94-.05ZM424.31,107.42c-1.33,0-2.48-.46-2.49-1.87,0-.97.58-1.44,1.26-1.63v-2.28c-1.78.12-3.02,1.65-3.01,3.92.02,2.86,1.92,4.21,4.25,4.2,2.33-.01,4.22-1.39,4.2-4.25-.01-2.38-1.36-3.78-3.09-3.89v2.27c.72.13,1.3.59,1.31,1.63,0,1.41-1.1,1.89-2.44,1.9M428.2,94.68v-2.29s-7.94.05-7.94.05v2.29s3.04-.02,3.04-.02l.02,3.36-3.02.02v2.29s7.94-.05,7.94-.05v-2.29s-3.15.02-3.15.02l-.02-3.36,3.13-.02ZM428.12,82.71v-2.11s-7.94.05-7.94.05l.02,3.3,5.24,1.54v.02l-5.22,1.6.02,3.31,7.93-.05v-2.11s-5.94.04-5.94.04v-.02l5.92-1.85v-1.89s-5.95-1.77-5.95-1.77v-.02l5.93-.04ZM425.14,74.24v1.93s-2.99-.93-2.99-.93v-.02l2.99-.97ZM428.07,73.26l-.02-2.45-7.91,3,.02,2.8,7.95,2.94-.02-2.46-1.29-.41-.02-3,1.29-.42ZM428.01,64.37l-.02-2.53-7.93.05v2.21s4.98-.03,4.98-.03v.02l-4.94,3.22.02,2.64,7.93-.05v-2.21s-5.02.03-5.02.03v-.02l4.99-3.32ZM427.93,51.75l-7.93.05v2.22s4.98-.03,4.98-.03v.02l-4.95,3.22.02,2.64,7.93-.05v-2.21s-5.02.03-5.02.03v-.02l4.99-3.32-.02-2.53Z"/>
     </g>
     <g>
@@ -413,10 +413,10 @@
       <path class="cls-22" d="M904.75,76.82c-.58,0-1.13.02-1.66.08-4.35.51-6.98,3.25-6.97,5.99,0,2.3,1.86,4.51,6.18,4.5.27,0,.54-.01.8-.02,1.04-.06,1.97-.2,2.8-.37l.5-2.14c-.83.28-1.89.51-2.73.51-.19,0-.38,0-.57-.03-1.98-.2-3.27-1.48-3.27-3.11,0-1.69,1.22-3.02,3.27-3.36.34-.06.71-.09,1.1-.09,1.32,0,1.99.43,2.43,1.01h.36s.7-2.53.7-2.53c-.72-.23-1.8-.44-2.93-.45Z"/>
       <path class="cls-22" d="M893.31,76.92h-5.12s-.17.67-.17.67c0,0,1.02.11.71,1.13l-2.32,8.45h4.65s.17-.72.17-.72c0,0-.87-.21-.64-1.01.02-.08.68-2.51.68-2.51h2.05s.09,0,.09,0c1.06,0,1.41.55,1.41.55l.62-2.51h-2.11s-1.48,0-1.48,0l.54-1.97h.94s2.17,0,2.17,0c.58,0,.98.39.98.67h.35s.69-2.75.69-2.75h-4.19Z"/>
     </g>
-    <text class="cls-12" transform="translate(814.32 145.89)"><tspan x="0" y="0">MESOPOTAMIA</tspan></text>
-    <text class="cls-12" transform="translate(879.13 139.16)"><tspan x="0" y="0">LA BUFET</tspan></text>
-    <text class="cls-15" transform="translate(945.18 102.7) rotate(-90) scale(.94 1)"><tspan x="0" y="0">RAIMAR</tspan></text>
-    <text class="cls-14" transform="translate(912.24 87.32) scale(1.41 1)"><tspan x="0" y="0">LEE HO</tspan></text>
+    <text class="cls-14" transform="translate(814.32 145.89)"><tspan x="0" y="0">MESOPOTAMIA</tspan></text>
+    <text class="cls-14" transform="translate(879.13 139.16)"><tspan x="0" y="0">LA BUFET</tspan></text>
+    <text class="cls-10" transform="translate(945.18 102.7) rotate(-90) scale(.94 1)"><tspan x="0" y="0">RAIMAR</tspan></text>
+    <text class="cls-18" transform="translate(912.24 87.32) scale(1.41 1)"><tspan x="0" y="0">LEE HO</tspan></text>
     <g>
       <path class="cls-22" d="M842.86,161.36c-.13,0-.3,0-.51,0-.28,0-.45-.01-.52-.01h-.69c-.07,0-.17-.01-.3-.02-.04,0-.07-.03-.07-.07,0-.17,0-.42,0-.75,0-.33,0-.58,0-.75,0-.18,0-.44-.02-.8-.01-.36-.02-.62-.02-.8,0-.03.02-.05.07-.05s.11,0,.21,0c.09,0,.16,0,.2,0,.05,0,.12,0,.22,0,.1,0,.17,0,.23,0,.02,0,.03.01.03.04v.03c-.02.29-.04.72-.06,1.3v.61c0,.2,0,.34,0,.43,0,.02,0,.04,0,.05,0,.02.01.03.03.03h.06c.14,0,.34,0,.62-.02.27-.01.48-.02.62-.02.04,0,.06.02.06.05,0,.26-.02.49-.06.68,0,.04-.02.06-.05.07,0,0-.04,0-.09,0Z"/>
       <path class="cls-22" d="M845.68,160.6c0,.07-.01.19-.04.36-.03.19-.05.31-.07.34-.02.03-.04.04-.08.04-.01,0-.04,0-.07,0-.11-.01-.44-.02-.98-.02-.12,0-.29,0-.53,0-.23,0-.41,0-.52,0-.05,0-.08-.02-.08-.07,0-.17,0-.43.03-.77.02-.34.03-.6.03-.77s0-.5-.03-.98c0-.12-.01-.31-.03-.55v-.03s.01-.05.05-.05c.11,0,.28,0,.51,0,.23,0,.4,0,.51,0s.28,0,.51,0c.23,0,.39,0,.51,0,.08,0,.12.03.14.09,0,.04.02.14.04.32.02.18.02.29.02.33,0,.03-.02.05-.05.05,0,0-.03,0-.05,0-.41-.03-.77-.05-1.1-.05-.08,0-.13.02-.15.06,0,.02-.01.08-.01.18,0,.1.01.17.05.21.03.03.08.04.15.04.01,0,.04,0,.09,0,.04,0,.08,0,.11,0,.19,0,.39,0,.59-.02.02,0,.06,0,.13-.01.05,0,.09,0,.12,0,.04,0,.06.02.06.05,0-.03-.01.08-.04.35-.01.12-.02.25-.02.37,0,.03-.02.05-.07.05l-.21-.02c-.09,0-.29-.01-.6-.01h-.24c-.06,0-.1.02-.11.05,0,0,0,.06,0,.14,0,.12,0,.19.02.23.03.06.12.09.29.1,0,0,.11,0,.34,0,.08,0,.2,0,.36-.02.16-.01.28-.02.36-.02.03,0,.05.03.05.08Z"/>
@@ -451,8 +451,8 @@
       </g>
       <path class="cls-22" d="M922.14,137.26c.22-.04.44,0,.64.1.18.1.34.26.44.47.14.28.17.62.13.94-.06.41-.3.77-.6.98-.25.17-.55.22-.84.18-.21-.03-.41-.13-.56-.3-.16-.17-.25-.41-.28-.66-.03-.28,0-.57.09-.83.08-.22.22-.41.38-.57.17-.16.38-.27.6-.31ZM922.12,137.86c-.12.03-.24.11-.32.22-.11.16-.19.35-.2.55,0,.13,0,.27.05.39.05.13.15.24.27.29.11.05.23.05.34.03.13-.02.26-.09.35-.2.12-.15.2-.35.21-.55.01-.14,0-.28-.05-.41-.06-.15-.17-.26-.3-.31-.12-.04-.24-.04-.36-.01Z"/>
     </g>
-    <text class="cls-10" transform="translate(827.02 243.07) rotate(-90)"><tspan x="0" y="0">JACK CASINO</tspan></text>
-    <text class="cls-13" transform="translate(877.7 288.06)"><tspan x="0" y="0">LILA ROSSA</tspan></text>
+    <text class="cls-11" transform="translate(827.02 243.07) rotate(-90)"><tspan x="0" y="0">JACK CASINO</tspan></text>
+    <text class="cls-15" transform="translate(877.7 288.06)"><tspan x="0" y="0">LILA ROSSA</tspan></text>
     <g>
       <path class="cls-22" d="M917.5,327.79c.2,0,.38.08.52.26.13.15.21.33.24.55,0,0,0,.01,0,.02,0,.02-.07.07-.21.15s-.23.12-.26.12c-.01,0-.02,0-.02-.02-.03-.14-.06-.24-.08-.29-.05-.1-.13-.16-.23-.16-.07,0-.14.03-.22.1-.14.12-.21.18-.23.19-.1.07-.22.1-.35.1-.18,0-.33-.08-.46-.25-.1-.14-.17-.31-.2-.51,0-.01,0-.02,0-.03,0-.02.01-.03.04-.04.07-.03.21-.09.4-.18,0,0,.01,0,.01,0,.02,0,.03,0,.03.03,0,0,0,.02,0,.04,0,.02,0,.03,0,.04,0,.07.02.13.05.19.04.06.09.1.16.1.06,0,.14-.04.23-.11.16-.13.24-.19.25-.2.11-.07.22-.11.33-.11Z"/>
       <path class="cls-22" d="M917.08,326.93c.12,0,.3,0,.53,0,.24,0,.42,0,.53,0,.02,0,.03,0,.04.01,0,0,0,.01,0,.04,0,.06.01.15.01.26,0,.15,0,.24-.01.28,0,.03-.02.04-.05.04.02,0-.07,0-.26-.01-.4-.02-.67-.03-.8-.03-.11,0-.27,0-.48,0s-.38.01-.48.01c-.02,0-.03-.01-.03-.03,0-.03,0-.08,0-.14s0-.11,0-.14,0-.08,0-.14,0-.11,0-.14.01-.04.03-.04c.11,0,.27,0,.48.02s.37.02.48.02Z"/>
@@ -904,9 +904,9 @@
       <path class="cls-25" d="M931.13,398.94l-1.39.78c-.66.37-1.48-.11-1.48-.86h0c0-.36.19-.69.5-.87l2.36-1.33c.3-.17.67-.17.97,0l2.36,1.33c.31.18.51.51.51.86h0c0,.76-.82,1.24-1.48.87l-1.39-.78c-.3-.17-.67-.17-.97,0Z"/>
       <path class="cls-25" d="M931.12,402.05l-1.39.78c-.66.37-1.48-.11-1.48-.86h0c0-.36.19-.69.51-.86l2.36-1.33c.3-.17.67-.17.97,0l2.36,1.32c.31.18.51.51.51.86h0c0,.76-.82,1.24-1.48.87l-1.39-.78c-.3-.17-.67-.17-.97,0Z"/>
     </g>
-    <text class="cls-11" transform="translate(882.05 233.17) scale(.99 1)"><tspan x="0" y="0">SPCRPCIV</tspan></text>
+    <text class="cls-12" transform="translate(882.05 233.17) scale(.99 1)"><tspan x="0" y="0">SPCRPCIV</tspan></text>
     <text class="cls-20" transform="translate(885.44 382.11) scale(.99 1)"><tspan x="0" y="0">SPCRPCIV</tspan></text>
-    <text class="cls-16" transform="translate(881.18 322.56) scale(.99 1)"><tspan x="0" y="0">LENSA</tspan></text>
+    <text class="cls-17" transform="translate(881.18 322.56) scale(.99 1)"><tspan x="0" y="0">LENSA</tspan></text>
     <text class="cls-5" transform="translate(908.61 329.14) rotate(-90) scale(.91 1)"><tspan x="0" y="0">XPRESS</tspan></text>
     <g>
       <path class="cls-22" d="M845.81,324.05s.05.02.05.05v.6s-.02.05-.06.05c-.12,0-.29,0-.52-.01s-.41-.01-.52-.01c-.03,0-.05,0-.05.02,0,.01.18.09.53.23.2.08.41.16.61.25.03.01.04.03.05.04,0,0,0,.03,0,.07,0,.06-.01.09-.03.11-.13.06-.31.14-.55.24-.25.11-.44.19-.55.24,0,0-.01,0-.02.02,0,0,.03.01.05.01.11,0,.28,0,.5,0s.39,0,.5,0c.04,0,.06.02.06.05v.57s0,.04-.01.04c0,0-.02,0-.04,0-.12,0-.31,0-.56-.02-.25-.01-.44-.02-.56-.02-.13,0-.38,0-.75.02-.1,0-.24,0-.42.01h-.03s-.03-.02-.03-.07c0-.06,0-.16,0-.28s0-.22,0-.28c0-.01.02-.03.07-.05l1.1-.5c.07-.04.11-.06.11-.09,0-.01-.04-.04-.13-.08-.24-.11-.6-.28-1.09-.51-.04-.02-.07-.04-.07-.06,0-.03,0-.08,0-.15,0-.07,0-.12,0-.15,0-.03,0-.07,0-.13s0-.1,0-.13c0-.03.01-.05.04-.05.14,0,.34,0,.61.01s.47.01.61.01c.12,0,.31,0,.56-.01.25-.01.44-.02.56-.02Z"/>
@@ -940,67 +940,67 @@
       <path class="cls-24" d="M587.72,411.62c1.3-1.2,1.67-3.59.79-6.15h0c-.07-.31-.62-.34-1.4-.31l-1.13-3.31c-.14-.45-.55-.68-.99-.58-.44.21-.61.62-.51,1.06l1.06,3.14c-.31.07-.62.14-.92.27-.31.1-.61.24-.92.38l-1.06-3.25c-.14-.38-.55-.61-.99-.48-.38.1-.61.62-.48.99l1.09,3.42c-.68.41-1.06.79-.99,1.03h0c.82,2.56,2.53,4.27,4.27,4.48h0c.14,0,.31.17.31.31,0,0,2.9,13.74,2.87,31.44-.07,21.4-4.48,31.41-5.91,36.67-.1.31-.1.62.21.82.31.14.62-.07.75-.38.1-.17,8.27-13.67,8.27-37.05,0-16.23-2.84-26.55-4.44-32.02v-.17c0-.14,0-.2.14-.24v-.07h0Z"/>
       <path class="cls-24" d="M580.2,451.88l-.1-.07-3.9-1.74,4-.62v2.43h0ZM572.55,448.97c0,1.61.31,2.67,1.85,3.39,0,0,9.6,4.72,9.77,4.85v-3.59s-1.47-.65-1.47-.65v-3.9s1.37-.17,1.47-.17v-4.03c-.17,0-11.31,2.05-11.38,2.05-.21.75-.24,1.37-.24,2.05h0ZM575.63,464.86c-.1,0-2.7-.41-2.84-.41v4.89c0,2.43,1.16,3.08,3.21,3.42,0,0,6.94,1.02,7.07,1.09.07-.1.85-3.35.92-3.45-.21-.07-3.49-.58-3.49-.58v-2.84c-.1,0-2.6-.38-2.77-.44v2.87l-2.12-.38v-4.17h0ZM572.79,459.57v3.59c.14,0,8.41,1.3,8.41,1.3l1.06.1c.55,0,.99-.1,1.3-.38.45-.34.62-.99.62-2.02v-3.86c-.1-.07-3.14-.48-3.35-.55v3.04s-7.86-1.23-8.03-1.23h0ZM578.5,412.4c1.92.2,2.67,1.5,2.67,2.63,0,.55-.27,1.03-.65,1.4-.48.44-1.23.61-2.08.51-1.81-.2-2.6-1.37-2.6-2.56,0-.61.17-1.09.61-1.47.41-.44,1.16-.62,2.05-.51h0ZM574.16,409.7c-1.06.92-1.61,2.46-1.61,4.34,0,3.14,2.29,6.56,6.12,6.87h.62c1.43,0,2.66-.45,3.59-1.26.99-.92,1.57-2.39,1.57-4.27,0-.55-.07-1.09-.21-1.68-1.91-.72-3.59-2.53-4.44-4.96-.51-.1-1.06-.24-1.57-.31h-.62c-1.4,0-2.6.44-3.45,1.26h0ZM575.63,423.27c0-.58.13-1.26.24-1.74-.11-.07-2.94-.82-3.15-.82-.14.62-.17,1.44-.17,1.88,0,4.58,3.21,7.11,6.26,7.62,1.71.24,3.08,0,4.07-.89.99-.79,1.5-2.29,1.5-4.14,0-.89-.14-1.88-.31-2.73-.14,0-3.04-.17-3.25-.24.21.55.27,1.09.27,1.74,0,.72-.27,1.4-.75,1.78-.51.44-1.16.62-1.98.44-1.85-.27-2.73-1.74-2.73-2.9h0ZM576.99,434.72c.75.07,1.67.17,1.67.17l.99.14-1.47.48c-.99.31-3.35,1.06-5.4,1.44v5.13c.14,0,11.21,1.81,11.38,1.81v-3.45c-.1,0-4-.68-4.75-.75-.82-.14-2.36-.31-2.36-.31,0,0,1.37-.38,1.85-.51.58-.1,2.5-.68,3.04-.85,2.22-.68,2.5-1.74,2.5-3.66,0-.68-.07-1.3-.28-1.98-.03,0-11.21-1.81-11.38-1.81v3.49c.14,0,3.42.55,4.2.68h0Z"/>
     </g>
-    <text class="cls-17" transform="translate(822.44 88.09) rotate(-90) scale(1.24 1)"><tspan x="0" y="0">DRISTOR </tspan><tspan x="15.38" y="4.21"></tspan><tspan x="3.71" y="8.42">KEBAP</tspan></text>
+    <text class="cls-16" transform="translate(822.44 88.09) rotate(-90) scale(1.24 1)"><tspan x="0" y="0">DRISTOR </tspan><tspan x="15.38" y="4.21"></tspan><tspan x="3.71" y="8.42">KEBAP</tspan></text>
     <text class="cls-9" transform="translate(816.09 322.71) rotate(-90) scale(.83 1)"><tspan x="0" y="0">STREET</tspan><tspan x="-.98" y="5">COFFEE</tspan><tspan x="-3.51" y="10">ROASTERS</tspan></text>
-    <text class="cls-19" transform="translate(887.67 302.05) scale(.83 1)"><tspan x="0" y="0">DIVERTA</tspan></text>
+    <text class="cls-13" transform="translate(887.67 302.05) scale(.83 1)"><tspan x="0" y="0">DIVERTA</tspan></text>
   </g>
-  <polygon id="Prahova_Value_CentreGF01" class="cls-2" points="12.47 171.5 12.47 268.4 127.73 268.4 127.73 204.21 66.7 204.21 66.7 171.5 12.47 171.5"/>
-  <polygon id="Prahova_Value_CentreGF02" class="cls-2" points="12.47 100.34 12.47 168.44 68.93 168.44 68.93 201.78 127.73 201.78 127.73 107.4 81.25 107.4 81.25 100.34 12.47 100.34"/>
-  <polygon id="Prahova_Value_CentreGF03" class="cls-2" points="83.6 35.6 83.6 104.43 129.83 104.43 129.31 143.64 178.26 143.64 178.26 18.07 155.8 18.07 155.8 25.6 146.45 25.6 146.45 35.34 83.6 35.6"/>
-  <polygon id="Prahova_Value_CentreGF04" class="cls-2" points="180.04 18.07 180.04 143.64 236.07 143.64 236.07 87.19 268.61 87.19 268.61 12.39 189.88 12.39 189.88 18.07 180.04 18.07"/>
-  <rect id="Prahova_Value_CentreGF05" class="cls-2" x="237.51" y="89.45" width="31.77" height="54.19"/>
-  <polygon id="Prahova_Value_CentreGF06" class="cls-2" points="270.45 12.39 270.45 143.64 329.37 143.64 329.37 43.76 356.21 43.76 356.21 12.39 270.45 12.39"/>
-  <polygon id="Prahova_Value_CentreGF07" class="cls-2" points="330.94 45.73 330.94 143.64 363.22 143.64 363.22 12.39 357.4 12.39 357.4 45.73 330.94 45.73"/>
-  <rect id="Prahova_Value_CentreGF08" class="cls-2" x="364.8" y="12.39" width="39.63" height="131.26"/>
-  <polygon id="Prahova_Value_CentreGF09" class="cls-2" points="406 12.39 406 143.64 438.8 143.64 438.8 45.73 411.25 45.73 411.25 12.39 406 12.39"/>
-  <polygon id="Prahova_Value_CentreGF10" class="cls-2" points="413.08 12.39 413.08 44.4 440.25 44.4 440.25 143.64 483.55 143.64 483.55 12.39 413.08 12.39"/>
-  <rect id="Prahova_Value_CentreGF11" class="cls-2" x="485.39" y="12.39" width="39.23" height="131.26"/>
-  <rect id="Prahova_Value_CentreGF12" class="cls-2" x="526.72" y="12.39" width="24.28" height="131.26"/>
-  <rect id="Prahova_Value_CentreGF13" class="cls-2" x="552.83" y="12.39" width="30.97" height="131.26"/>
-  <rect id="Prahova_Value_CentreG26G27_x5E_T02" class="cls-2" x="810.68" y="42.22" width="26.26" height="53.31"/>
-  <polygon id="Prahova_Value_CentreG25" class="cls-2" points="844.76 62.77 844.76 95.52 868.33 95.52 868.33 68.3 857.74 68.3 857.74 62.77 844.76 62.77"/>
-  <rect id="Prahova_Value_CentreG23_x5F_G24" class="cls-2" x="870" y="68.03" width="39.3" height="27.5"/>
-  <polygon id="Prahova_Value_CentreG22" class="cls-2" points="910.66 68.03 910.66 95.52 930.77 95.52 930.77 79.15 920.08 79.15 920.08 68.03 910.66 68.03"/>
-  <polygon id="Prahova_Value_CentreG21" class="cls-2" points="938.19 87.46 938.19 104.01 948.79 104.01 948.79 87.4 938.19 87.46"/>
-  <polygon id="Prahova_Value_CentreG28_x5E_T01" class="cls-2" points="810.68 129.97 810.68 171.5 837.7 171.5 837.7 149.35 852.95 149.35 852.95 136.71 844.76 129.97 810.68 129.97"/>
-  <rect id="Prahova_Value_CentreG29G30" class="cls-2" x="839.12" y="151.06" width="13.99" height="20.29"/>
-  <polygon id="Prahova_Value_CentreG18_x5F_G19" class="cls-2" points="883.75 129.97 876.66 135.77 876.66 142.23 898.15 142.23 898.15 158.06 903.72 158.06 903.72 129.97 883.75 129.97"/>
-  <polygon id="Prahova_Value_CentreG20" class="cls-2" points="905.43 129.97 905.43 145.06 924.31 145.06 924.31 135.77 916.9 129.97 905.43 129.97"/>
-  <polygon id="Prahova_Value_CentreG16" class="cls-2" points="876.66 144.07 876.66 158.06 896.96 158.06 896.96 144.02 876.66 144.07"/>
-  <polygon id="Prahova_Value_CentreG17" class="cls-2" points="876.66 159.7 876.66 170.63 924.31 170.63 924.31 146.77 905.43 146.77 905.43 159.7 876.66 159.7"/>
-  <rect id="Prahova_Value_CentreG12345" class="cls-1" x="197.26" y="355.04" width="56.85" height="109.6"/>
-  <polygon id="Prahova_Value_CentreG34" class="cls-2" points="810.68 178.65 810.68 250.23 833.19 250.23 833.19 194.71 853.11 194.71 853.11 178.65 810.68 178.65"/>
-  <rect id="Prahova_Value_CentreG31" class="cls-2" x="834.44" y="196.19" width="18.67" height="17.47"/>
-  <rect id="Prahova_Value_CentreG32" class="cls-2" x="834.44" y="215" width="18.67" height="13.9"/>
-  <polygon id="Prahova_Value_CentreG33" class="cls-2" points="834.44 230.46 834.44 250.23 841.36 250.23 841.36 246.44 853.11 246.44 853.11 230.46 834.44 230.46"/>
-  <polygon id="Prahova_Value_CentreG15" class="cls-2" points="876.66 178.66 876.66 201.6 915.24 201.6 915.24 220.11 924.31 220.11 924.31 178.36 876.66 178.66"/>
-  <polygon id="Prahova_Value_CentreG35" class="cls-2" points="835.84 258.33 835.84 279.59 853.03 279.59 853.03 262.2 841.21 262.2 841.21 258.48 835.84 258.33"/>
-  <rect id="Prahova_Value_CentreG36" class="cls-2" x="835.98" y="281.15" width="17.05" height="13.38"/>
-  <rect id="Prahova_Value_CentreG37" class="cls-2" x="829.62" y="296" width="23.41" height="15.12"/>
-  <polygon id="Prahova_Value_CentreG38" class="cls-2" points="841.28 312.44 841.28 332.44 844.14 332.44 853.03 323.67 853.03 312.44 841.28 312.44"/>
-  <rect id="Prahova_Value_CentreG39" class="cls-2" x="830.06" y="312.44" width="9.77" height="19.99"/>
-  <rect id="Prahova_Value_CentreG40" class="cls-2" x="810.59" y="297.43" width="17.91" height="35.01"/>
-  <rect id="Prahova_Value_CentreG12" class="cls-2" x="876.37" y="258.33" width="48.09" height="23.26"/>
-  <rect id="Prahova_Value_CentreG11" class="cls-2" x="876.37" y="282.95" width="19.48" height="7.12"/>
-  <polygon id="Prahova_Value_CentreG10X" class="cls-2" points="876.37 291.63 876.37 309.83 924.46 309.83 924.46 283.31 897.43 283.31 897.43 291.63 876.37 291.63"/>
-  <polygon id="Prahova_Value_CentreG09" class="cls-2" points="876.37 311.21 876.37 324.93 884.55 332.44 901.06 332.44 901.06 311.21 876.37 311.21"/>
-  <rect id="Prahova_Value_CentreG08_x5F_2" class="cls-2" x="902.61" y="311.21" width="9.4" height="21.23"/>
-  <polygon id="Prahova_Value_CentreG08_x5F_1" class="cls-2" points="913.26 311.21 913.26 332.44 915.99 332.44 924.46 324.41 924.46 311.48 913.26 311.21"/>
-  <rect id="Prahova_Value_CentreG01_x5E_T04" class="cls-2" x="810.59" y="354.98" width="16.43" height="36.03"/>
-  <rect id="Prahova_Value_CentreG02_x5F_1" class="cls-2" x="828.5" y="354.98" width="14.72" height="36.03"/>
-  <rect id="Prahova_Value_CentreG02_x5F_2" class="cls-2" x="844.71" y="354.98" width="11" height="36.03"/>
-  <rect id="Prahova_Value_CentreG03" class="cls-2" x="857.04" y="354.98" width="12.34" height="36.03"/>
-  <polygon id="Prahova_Value_CentreG05" class="cls-2" points="879.71 354.98 879.71 367.32 889.6 367.32 889.6 354.67 879.71 354.98"/>
-  <polygon id="Prahova_Value_CentreG04G06" class="cls-2" points="879.71 369.01 879.71 391.01 924.09 391.01 924.09 366.03 909.45 354.98 891.16 354.98 891.16 369.01 879.71 369.01"/>
-  <rect id="Prahova_Value_CentreG07" class="cls-2" x="938.36" y="322.48" width="125.91" height="68.53"/>
-  <polygon id="Prahova_Value_CentreG00" class="cls-2" points="938.19 105.41 938.19 321.09 1065.87 321.09 1065.87 391.01 1133.42 391.01 1133.42 327.19 1078.5 327.19 1078.5 68.03 958.52 68.03 958.52 87.59 950.89 87.59 950.89 105.55 938.19 105.41"/>
+  <polygon id="Prahova_Value_CentreGF01" data-name="Prahova Value CentreGF01" class="cls-2" points="12.47 171.5 12.47 268.4 127.73 268.4 127.73 204.21 66.7 204.21 66.7 171.5 12.47 171.5"/>
+  <polygon id="Prahova_Value_CentreGF02" data-name="Prahova Value CentreGF02" class="cls-2" points="12.47 100.34 12.47 168.44 68.93 168.44 68.93 201.78 127.73 201.78 127.73 107.4 81.25 107.4 81.25 100.34 12.47 100.34"/>
+  <polygon id="Prahova_Value_CentreGF03" data-name="Prahova Value CentreGF03" class="cls-2" points="83.6 35.6 83.6 104.43 129.83 104.43 129.31 143.64 178.26 143.64 178.26 18.07 155.8 18.07 155.8 25.6 146.45 25.6 146.45 35.34 83.6 35.6"/>
+  <polygon id="Prahova_Value_CentreGF04" data-name="Prahova Value CentreGF04" class="cls-2" points="180.04 18.07 180.04 143.64 236.07 143.64 236.07 87.19 268.61 87.19 268.61 12.39 189.88 12.39 189.88 18.07 180.04 18.07"/>
+  <rect id="Prahova_Value_CentreGF05" data-name="Prahova Value CentreGF05" class="cls-2" x="237.51" y="89.45" width="31.77" height="54.19"/>
+  <polygon id="Prahova_Value_CentreGF06" data-name="Prahova Value CentreGF06" class="cls-2" points="270.45 12.39 270.45 143.64 329.37 143.64 329.37 43.76 356.21 43.76 356.21 12.39 270.45 12.39"/>
+  <polygon id="Prahova_Value_CentreGF07" data-name="Prahova Value CentreGF07" class="cls-2" points="330.94 45.73 330.94 143.64 363.22 143.64 363.22 12.39 357.4 12.39 357.4 45.73 330.94 45.73"/>
+  <rect id="Prahova_Value_CentreGF08" data-name="Prahova Value CentreGF08" class="cls-2" x="364.8" y="12.39" width="39.63" height="131.26"/>
+  <polygon id="Prahova_Value_CentreGF09" data-name="Prahova Value CentreGF09" class="cls-2" points="406 12.39 406 143.64 438.8 143.64 438.8 45.73 411.25 45.73 411.25 12.39 406 12.39"/>
+  <polygon id="Prahova_Value_CentreGF10" data-name="Prahova Value CentreGF10" class="cls-2" points="413.08 12.39 413.08 44.4 440.25 44.4 440.25 143.64 483.55 143.64 483.55 12.39 413.08 12.39"/>
+  <rect id="Prahova_Value_CentreGF11" data-name="Prahova Value CentreGF11" class="cls-2" x="485.39" y="12.39" width="39.23" height="131.26"/>
+  <rect id="Prahova_Value_CentreGF12" data-name="Prahova Value CentreGF12" class="cls-2" x="526.72" y="12.39" width="24.28" height="131.26"/>
+  <rect id="Prahova_Value_CentreGF13" data-name="Prahova Value CentreGF13" class="cls-2" x="552.83" y="12.39" width="30.97" height="131.26"/>
+  <rect id="Prahova_Value_CentreG26G27X" data-name="Prahova Value CentreG26G27X" class="cls-2" x="810.68" y="42.22" width="26.26" height="53.31"/>
+  <polygon id="Prahova_Value_CentreG25" data-name="Prahova Value CentreG25" class="cls-2" points="844.76 62.77 844.76 95.52 868.33 95.52 868.33 68.3 857.74 68.3 857.74 62.77 844.76 62.77"/>
+  <rect id="Prahova_Value_CentreG23_G24" data-name="Prahova Value CentreG23_G24" class="cls-2" x="870" y="68.03" width="39.3" height="27.5"/>
+  <polygon id="Prahova_Value_CentreG22" data-name="Prahova Value CentreG22" class="cls-2" points="910.66 68.03 910.66 95.52 930.77 95.52 930.77 79.15 920.08 79.15 920.08 68.03 910.66 68.03"/>
+  <polygon id="Prahova_Value_CentreG21" data-name="Prahova Value CentreG21" class="cls-2" points="938.19 87.46 938.19 104.01 948.79 104.01 948.79 87.4 938.19 87.46"/>
+  <polygon id="Prahova_Value_CentreG28_T01" data-name="Prahova Value CentreG28^T01" class="cls-2" points="810.68 129.97 810.68 171.5 837.7 171.5 837.7 149.35 852.95 149.35 852.95 136.71 844.76 129.97 810.68 129.97"/>
+  <rect id="Prahova_Value_CentreG29G30" data-name="Prahova Value CentreG29G30" class="cls-2" x="839.12" y="151.06" width="13.99" height="20.29"/>
+  <polygon id="Prahova_Value_CentreG18_G19" data-name="Prahova Value CentreG18_G19" class="cls-2" points="883.75 129.97 876.66 135.77 876.66 142.23 898.15 142.23 898.15 158.06 903.72 158.06 903.72 129.97 883.75 129.97"/>
+  <polygon id="Prahova_Value_CentreG20" data-name="Prahova Value CentreG20" class="cls-2" points="905.43 129.97 905.43 145.06 924.31 145.06 924.31 135.77 916.9 129.97 905.43 129.97"/>
+  <polygon id="Prahova_Value_CentreG16" data-name="Prahova Value CentreG16" class="cls-2" points="876.66 144.07 876.66 158.06 896.96 158.06 896.96 144.02 876.66 144.07"/>
+  <polygon id="Prahova_Value_CentreG17" data-name="Prahova Value CentreG17" class="cls-2" points="876.66 159.7 876.66 170.63 924.31 170.63 924.31 146.77 905.43 146.77 905.43 159.7 876.66 159.7"/>
+  <rect id="Prahova_Value_CentreG12345" data-name="Prahova Value CentreG12345" class="cls-1" x="197.26" y="355.04" width="56.85" height="109.6"/>
+  <polygon id="Prahova_Value_CentreG34" data-name="Prahova Value CentreG34" class="cls-2" points="810.68 178.65 810.68 250.23 833.19 250.23 833.19 194.71 853.11 194.71 853.11 178.65 810.68 178.65"/>
+  <rect id="Prahova_Value_CentreG31" data-name="Prahova Value CentreG31" class="cls-2" x="834.44" y="196.19" width="18.67" height="17.47"/>
+  <rect id="Prahova_Value_CentreG32" data-name="Prahova Value CentreG32" class="cls-2" x="834.44" y="215" width="18.67" height="13.9"/>
+  <polygon id="Prahova_Value_CentreG33" data-name="Prahova Value CentreG33" class="cls-2" points="834.44 230.46 834.44 250.23 841.36 250.23 841.36 246.44 853.11 246.44 853.11 230.46 834.44 230.46"/>
+  <polygon id="Prahova_Value_CentreG15" data-name="Prahova Value CentreG15" class="cls-2" points="876.66 178.66 876.66 201.6 915.24 201.6 915.24 220.11 924.31 220.11 924.31 178.36 876.66 178.66"/>
+  <polygon id="Prahova_Value_CentreG35" data-name="Prahova Value CentreG35" class="cls-2" points="835.84 258.33 835.84 279.59 853.03 279.59 853.03 262.2 841.21 262.2 841.21 258.48 835.84 258.33"/>
+  <rect id="Prahova_Value_CentreG36" data-name="Prahova Value CentreG36" class="cls-2" x="835.98" y="281.15" width="17.05" height="13.38"/>
+  <rect id="Prahova_Value_CentreG37" data-name="Prahova Value CentreG37" class="cls-2" x="829.62" y="296" width="23.41" height="15.12"/>
+  <polygon id="Prahova_Value_CentreG38" data-name="Prahova Value CentreG38" class="cls-2" points="841.28 312.44 841.28 332.44 844.14 332.44 853.03 323.67 853.03 312.44 841.28 312.44"/>
+  <rect id="Prahova_Value_CentreG39" data-name="Prahova Value CentreG39" class="cls-2" x="830.06" y="312.44" width="9.77" height="19.99"/>
+  <rect id="Prahova_Value_CentreG40_T03" data-name="Prahova Value CentreG40^T03" class="cls-2" x="810.59" y="297.43" width="17.91" height="35.01"/>
+  <rect id="Prahova_Value_CentreG12" data-name="Prahova Value CentreG12" class="cls-2" x="876.37" y="258.33" width="48.09" height="23.26"/>
+  <rect id="Prahova_Value_CentreG11" data-name="Prahova Value CentreG11" class="cls-2" x="876.37" y="282.95" width="19.48" height="7.12"/>
+  <polygon id="Prahova_Value_CentreG10X" data-name="Prahova Value CentreG10X" class="cls-2" points="876.37 291.63 876.37 309.83 924.46 309.83 924.46 283.31 897.43 283.31 897.43 291.63 876.37 291.63"/>
+  <polygon id="Prahova_Value_CentreG09" data-name="Prahova Value CentreG09" class="cls-2" points="876.37 311.21 876.37 324.93 884.55 332.44 901.06 332.44 901.06 311.21 876.37 311.21"/>
+  <rect id="Prahova_Value_CentreG08_2" data-name="Prahova Value CentreG08_2" class="cls-2" x="902.61" y="311.21" width="9.4" height="21.23"/>
+  <polygon id="Prahova_Value_CentreG08_1" data-name="Prahova Value CentreG08_1" class="cls-2" points="913.26 311.21 913.26 332.44 915.99 332.44 924.46 324.41 924.46 311.48 913.26 311.21"/>
+  <rect id="Prahova_Value_CentreG01_T04" data-name="Prahova Value CentreG01^T04" class="cls-2" x="810.59" y="354.98" width="16.43" height="36.03"/>
+  <rect id="Prahova_Value_CentreG02_1" data-name="Prahova Value CentreG02_1" class="cls-2" x="828.5" y="354.98" width="14.72" height="36.03"/>
+  <rect id="Prahova_Value_CentreG02_2" data-name="Prahova Value CentreG02_2" class="cls-2" x="844.71" y="354.98" width="11" height="36.03"/>
+  <rect id="Prahova_Value_CentreG03" data-name="Prahova Value CentreG03" class="cls-2" x="857.04" y="354.98" width="12.34" height="36.03"/>
+  <polygon id="Prahova_Value_CentreG05" data-name="Prahova Value CentreG05" class="cls-2" points="879.71 354.98 879.71 367.32 889.6 367.32 889.6 354.67 879.71 354.98"/>
+  <polygon id="Prahova_Value_CentreG04G06" data-name="Prahova Value CentreG04G06" class="cls-2" points="879.71 369.01 879.71 391.01 924.09 391.01 924.09 366.03 909.45 354.98 891.16 354.98 891.16 369.01 879.71 369.01"/>
+  <rect id="Prahova_Value_CentreG07" data-name="Prahova Value CentreG07" class="cls-2" x="938.36" y="322.48" width="125.91" height="68.53"/>
+  <polygon id="Prahova_Value_CentreG00" data-name="Prahova Value CentreG00" class="cls-2" points="938.19 105.41 938.19 321.09 1065.87 321.09 1065.87 391.01 1133.42 391.01 1133.42 327.19 1078.5 327.19 1078.5 68.03 958.52 68.03 958.52 87.59 950.89 87.59 950.89 105.55 938.19 105.41"/>
   <text class="cls-7" transform="translate(712.44 348.31)"><tspan class="cls-34" x="0" y="0">Entrance </tspan><tspan class="cls-32" x="41.03" y="0">B</tspan></text>
   <text class="cls-7" transform="translate(713.11 119.68)"><tspan class="cls-34" x="0" y="0">Entrance </tspan><tspan class="cls-32" x="41.03" y="0">A</tspan></text>
   <text class="cls-7" transform="translate(889.43 401.31)"><tspan class="cls-26" x="0" y="0">Entrance </tspan><tspan class="cls-28" x="27.07" y="0">C</tspan></text>
-  <polygon id="Prahova_Value_CentreG13G14" class="cls-2" points="876.75 203.14 876.75 249.82 924.28 249.82 924.28 220.11 913.2 220.11 913.2 202.92 876.75 203.14"/>
-  <rect id="Prahova_Value_CentreGF18" class="cls-4" x="196.3" y="354.23" width="58.53" height="111.52"/>
-  <rect id="Prahova_Value_CentreGF17" class="cls-4" x="518.67" y="375.8" width="37.07" height="124.2"/>
-  <polygon id="Prahova_Value_CentreGF16" class="cls-4" points="557.51 375.8 557.51 500 602.92 500 602.92 461.81 615.91 461.81 615.91 375.8 557.51 375.8"/>
-  <polygon id="Prahova_Value_CentreGF15" class="cls-4" points="617.68 375.8 617.68 463.26 604.68 463.26 604.68 500 704.33 500 704.33 375.8 617.68 375.8"/>
-  <rect id="Prahova_Value_CentreGF14" class="cls-4" x="706.1" y="375.8" width="65.63" height="124.2"/>
+  <polygon id="Prahova_Value_CentreG13G14" data-name="Prahova Value CentreG13G14" class="cls-2" points="876.75 203.14 876.75 249.82 924.28 249.82 924.28 220.11 913.2 220.11 913.2 202.92 876.75 203.14"/>
+  <rect id="Prahova_Value_CentreGF18" data-name="Prahova Value CentreGF18" class="cls-4" x="196.3" y="354.23" width="58.53" height="111.52"/>
+  <rect id="Prahova_Value_CentreGF17" data-name="Prahova Value CentreGF17" class="cls-4" x="518.67" y="375.8" width="37.07" height="124.2"/>
+  <polygon id="Prahova_Value_CentreGF16" data-name="Prahova Value CentreGF16" class="cls-4" points="557.51 375.8 557.51 500 602.92 500 602.92 461.81 615.91 461.81 615.91 375.8 557.51 375.8"/>
+  <polygon id="Prahova_Value_CentreGF15" data-name="Prahova Value CentreGF15" class="cls-4" points="617.68 375.8 617.68 463.26 604.68 463.26 604.68 500 704.33 500 704.33 375.8 617.68 375.8"/>
+  <rect id="Prahova_Value_CentreGF14" data-name="Prahova Value CentreGF14" class="cls-4" x="706.1" y="375.8" width="65.63" height="124.2"/>
 </svg>
