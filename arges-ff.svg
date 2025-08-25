@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598.17 833.72">
+<svg id="Layer_4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 598.17 833.72">
   <defs>
     <style>
       .cls-1 {
@@ -192,7 +192,7 @@
       }
     </style>
   </defs>
-  <g id="General_Map" data-name="General Map">
+  <g id="General_Map">
     <polygon class="cls-31" points="0 833.72 0 0 235.67 0 235.67 58.47 250.66 58.47 251.49 256.43 351.77 256.43 351.77 268.16 598.17 268.99 598.17 833.72 0 833.72"/>
     <polygon class="cls-23" points="11.34 11.34 11.34 822.38 586.84 822.38 586.84 280.29 340.43 279.46 340.43 267.76 240.2 267.76 239.37 69.81 224.33 69.81 224.33 11.34 11.34 11.34"/>
   </g>
@@ -415,30 +415,30 @@
       <path class="cls-5" d="M576.97,594.73l3.4-.02c.08,0,.15-.02.19-.07.04-.04.08-.12.1-.24h.13s.01,1.69.01,1.69h-.13c-.03-.11-.06-.19-.11-.24-.04-.04-.11-.07-.19-.07l-4.87.03v-.15c.1-.03.16-.07.2-.12.04-.05.06-.13.06-.23l-.03-5.53c0-.1-.02-.17-.06-.22-.04-.05-.11-.09-.2-.12v-.15s1.72-.01,1.72-.01v.15c-.1.03-.16.07-.2.12-.04.05-.06.13-.06.23l.03,4.95Z"/>
     </g>
   </g>
-  <polygon id="Arges_MallFF01" data-name="Arges MallFF01" class="cls-22" points="13.31 13.18 13.31 70.43 44.96 70.43 44.96 101.1 160.65 101.1 160.65 289.74 238.18 289.74 238.18 71.88 222.73 71.88 222.73 13.18 13.31 13.18"/>
-  <polygon id="Arges_MallFF02A" data-name="Arges MallFF02A" class="cls-22" points="13.31 74.53 13.31 129.12 26.6 129.12 26.6 110.76 80.94 110.76 80.94 223.32 120.8 223.32 120.8 289.74 157.27 289.74 157.27 105.21 40.85 105.21 40.85 74.53 13.31 74.53"/>
-  <polygon id="Arges_MallFF02B_GF110" data-name="Arges MallFF02B^GF110" class="cls-22" points="13.31 132.5 13.31 306.17 34.57 306.17 34.57 289.74 116.93 289.74 116.93 227.18 77.08 227.18 77.08 114.39 30.22 114.39 30.22 132.5 13.31 132.5"/>
-  <rect id="Arges_MallFF03" data-name="Arges MallFF03" class="cls-22" x="54.62" y="309.55" width="62.32" height="30.43"/>
-  <rect id="Arges_MallFF04FF05" data-name="Arges MallFF04FF05" class="cls-22" x="30.71" y="343.12" width="86.23" height="50.96"/>
-  <rect id="Arges_MallD07_FF06" data-name="Arges MallD07^FF06" class="cls-22" x="30.71" y="398.19" width="86.23" height="20.77"/>
-  <rect id="Arges_MallFF07" data-name="Arges MallFF07" class="cls-22" x="30.71" y="423.07" width="86.23" height="21.5"/>
-  <rect id="Arges_MallFF08" data-name="Arges MallFF08" class="cls-22" x="30.71" y="464.61" width="86.23" height="47.34"/>
-  <rect id="Arges_MallFF10" data-name="Arges MallFF10" class="cls-22" x="30.71" y="516.06" width="86.23" height="56.28"/>
-  <rect id="Arges_MallFF11" data-name="Arges MallFF11" class="cls-22" x="30.71" y="575.72" width="86.23" height="65.46"/>
-  <polygon id="Arges_MallFF20_TE06" data-name="Arges MallFF20^TE06" class="cls-22" points="138.88 727.53 138.88 799.08 148.05 799.08 148.05 820.4 338.82 820.4 338.82 775.69 431 775.69 431 633.06 397.98 624.12 397.98 727.53 138.88 727.53"/>
-  <polygon id="Arges_MallFF17" data-name="Arges MallFF17" class="cls-22" points="394.31 724.14 394.31 623.43 335.82 623.43 335.07 717.96 329.94 717.81 329.94 724.14 394.31 724.14"/>
-  <polygon id="Arges_MallFF16" data-name="Arges MallFF16" class="cls-22" points="298.43 623.43 298.43 714.49 331.45 714.49 332.05 623.43 298.43 623.43"/>
-  <rect id="Arges_MallFF15" data-name="Arges MallFF15" class="cls-22" x="261.95" y="623.43" width="32.71" height="91.06"/>
-  <polygon id="Arges_MallFF13" data-name="Arges MallFF13" class="cls-22" points="233 623.43 233 681.77 239.79 681.77 239.79 714.49 258.33 714.49 258.33 623.43 233 623.43"/>
-  <polygon id="Arges_MallFF14" data-name="Arges MallFF14" class="cls-22" points="185.06 623.43 185.06 682.08 210.24 682.08 210.24 714.49 236.32 714.49 236.32 685.69 229.23 685.69 229.23 623.43 185.06 623.43"/>
-  <polygon id="Arges_MallFF12" data-name="Arges MallFF12" class="cls-22" points="138.88 623.43 138.88 714.49 206.77 714.49 206.77 685.69 181.44 685.69 181.44 623.43 138.88 623.43"/>
-  <polygon id="Arges_MallFF21_TE05" data-name="Arges MallFF21^TE05" class="cls-22" points="449.49 632.35 449.49 803.3 585.38 803.3 585.38 652.55 495.86 652.38 496.02 632.35 449.49 632.35"/>
-  <polygon id="Arges_MallFF22A" data-name="Arges MallFF22A" class="cls-22" points="499.58 604.07 499.58 649.31 533.51 649.31 533.51 609.36 534.32 609.36 534.32 604.07 499.58 604.07"/>
-  <polygon id="Arges_MallFF22B" data-name="Arges MallFF22B" class="cls-22" points="499.58 556.41 499.58 600.52 538.2 600.52 538.2 609.36 547.41 609.36 547.41 556.41 499.58 556.41"/>
-  <polygon id="Arges_MallFF23A" data-name="Arges MallFF23A" class="cls-22" points="515.25 522.31 499.58 538.31 499.58 553.01 547.41 553.01 547.41 522.31 515.25 522.31"/>
-  <polygon id="Arges_MallFF23B_TE03" data-name="Arges MallFF23B^TE03" class="cls-22" points="550.8 522.31 550.8 612.96 546.44 612.96 546.44 639.3 585.38 639.3 585.38 522.31 550.8 522.31"/>
-  <polygon id="Arges_MallD01_D02_FF24_TE02" data-name="Arges MallD01^D02^FF24^TE02" class="cls-22" points="493.67 281.58 493.67 337.86 519.84 337.86 519.84 385.21 584.89 385.21 584.89 281.58 493.67 281.58"/>
-  <rect id="Arges_MallFF25" data-name="Arges MallFF25" class="cls-22" x="493.67" y="341.64" width="22.54" height="43.57"/>
-  <rect id="Arges_MallFF26" data-name="Arges MallFF26" class="cls-22" x="457.21" y="353.44" width="32.53" height="31.77"/>
-  <polygon id="Arges_MallFF27_TE01" data-name="Arges MallFF27^TE01" class="cls-22" points="380.21 281.58 380.21 385.21 442.99 385.21 442.99 301.55 457.21 301.55 457.21 281.58 380.21 281.58"/>
+  <polygon id="Arges_MallFF01" class="cls-22" points="13.31 13.18 13.31 70.43 44.96 70.43 44.96 101.1 160.65 101.1 160.65 289.74 238.18 289.74 238.18 71.88 222.73 71.88 222.73 13.18 13.31 13.18"/>
+  <polygon id="Arges_MallFF02A" class="cls-22" points="13.31 74.53 13.31 129.12 26.6 129.12 26.6 110.76 80.94 110.76 80.94 223.32 120.8 223.32 120.8 289.74 157.27 289.74 157.27 105.21 40.85 105.21 40.85 74.53 13.31 74.53"/>
+  <polygon id="Arges_MallFF02B_x5E_GF110" class="cls-22" points="13.31 132.5 13.31 306.17 34.57 306.17 34.57 289.74 116.93 289.74 116.93 227.18 77.08 227.18 77.08 114.39 30.22 114.39 30.22 132.5 13.31 132.5"/>
+  <rect id="Arges_MallFF03" class="cls-22" x="54.62" y="309.55" width="62.32" height="30.43"/>
+  <rect id="Arges_MallFF04FF05" class="cls-22" x="30.71" y="343.12" width="86.23" height="50.96"/>
+  <rect id="Arges_MallD07_x5E_FF06" class="cls-22" x="30.71" y="398.19" width="86.23" height="20.77"/>
+  <rect id="Arges_MallFF07" class="cls-22" x="30.71" y="423.07" width="86.23" height="21.5"/>
+  <rect id="Arges_MallFF08" class="cls-22" x="30.71" y="464.61" width="86.23" height="47.34"/>
+  <rect id="Arges_MallFF10" class="cls-22" x="30.71" y="516.06" width="86.23" height="56.28"/>
+  <rect id="Arges_MallFF11" class="cls-22" x="30.71" y="575.72" width="86.23" height="65.46"/>
+  <polygon id="Arges_MallFF20_x5E_TE06" class="cls-22" points="138.88 727.53 138.88 799.08 148.05 799.08 148.05 820.4 338.82 820.4 338.82 775.69 431 775.69 431 633.06 397.98 624.12 397.98 727.53 138.88 727.53"/>
+  <polygon id="Arges_MallFF17" class="cls-22" points="394.31 724.14 394.31 623.43 335.82 623.43 335.07 717.96 329.94 717.81 329.94 724.14 394.31 724.14"/>
+  <polygon id="Arges_MallFF16" class="cls-22" points="298.43 623.43 298.43 714.49 331.45 714.49 332.05 623.43 298.43 623.43"/>
+  <rect id="Arges_MallFF15" class="cls-22" x="261.95" y="623.43" width="32.71" height="91.06"/>
+  <polygon id="Arges_MallFF13" class="cls-22" points="233 623.43 233 681.77 239.79 681.77 239.79 714.49 258.33 714.49 258.33 623.43 233 623.43"/>
+  <polygon id="Arges_MallFF14" class="cls-22" points="185.06 623.43 185.06 682.08 210.24 682.08 210.24 714.49 236.32 714.49 236.32 685.69 229.23 685.69 229.23 623.43 185.06 623.43"/>
+  <polygon id="Arges_MallFF12" class="cls-22" points="138.88 623.43 138.88 714.49 206.77 714.49 206.77 685.69 181.44 685.69 181.44 623.43 138.88 623.43"/>
+  <polygon id="Arges_MallFF21_x5E_TE05" class="cls-22" points="449.49 632.35 449.49 803.3 585.38 803.3 585.38 652.55 495.86 652.38 496.02 632.35 449.49 632.35"/>
+  <polygon id="Arges_MallFF22A" class="cls-22" points="499.58 604.07 499.58 649.31 533.51 649.31 533.51 609.36 534.32 609.36 534.32 604.07 499.58 604.07"/>
+  <polygon id="Arges_MallFF22B" class="cls-22" points="499.58 556.41 499.58 600.52 538.2 600.52 538.2 609.36 547.41 609.36 547.41 556.41 499.58 556.41"/>
+  <polygon id="Arges_MallFF23A" class="cls-22" points="515.25 522.31 499.58 538.31 499.58 553.01 547.41 553.01 547.41 522.31 515.25 522.31"/>
+  <polygon id="Arges_MallFF23B_x5E_TE03" class="cls-22" points="550.8 522.31 550.8 612.96 546.44 612.96 546.44 639.3 585.38 639.3 585.38 522.31 550.8 522.31"/>
+  <polygon id="Arges_MallD01_x5E_D02_x5E_FF24_x5E_TE02" class="cls-22" points="493.67 281.58 493.67 337.86 519.84 337.86 519.84 385.21 584.89 385.21 584.89 281.58 493.67 281.58"/>
+  <rect id="Arges_MallFF25" class="cls-22" x="493.67" y="341.64" width="22.54" height="43.57"/>
+  <rect id="Arges_MallD05_x5E_FF26" class="cls-22" x="457.21" y="353.44" width="32.53" height="31.77"/>
+  <polygon id="Arges_MallFF27_x5E_TE01" class="cls-22" points="380.21 281.58 380.21 385.21 442.99 385.21 442.99 301.55 457.21 301.55 457.21 281.58 380.21 281.58"/>
 </svg>
