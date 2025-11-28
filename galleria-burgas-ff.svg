@@ -446,7 +446,7 @@
   <path id="Galleria_Burgas1.010" data-name="Galleria Burgas1.010" class="cls-23" d="M47.34,12.03v59.27H12.23v62.91h78.75v42.83h117.03v-42.03c1.45-9.39,7-16.61,7-16.61l-8.36-5.76h-26.99v-57.92h33.37V12.03H47.34Z"/>
   <path id="Galleria_Burgas1.011_S-1.09" data-name="Galleria Burgas1.011^S-1.09" class="cls-23" d="M215.01,22v34.48h-33.52v54.2h25.3l9.05,6.37c5.85-6.43,14.56-10.99,19.92-12.67h43.51V39.27h10.19v-17.27h-74.44Z"/>
   <polygon id="Galleria_Burgas1.012" data-name="Galleria Burgas1.012" class="cls-23" points="291.48 22 305.73 22 305.73 43.9 312.13 43.9 312.13 104.24 280.82 104.24 280.82 41.16 291.48 41.16 291.48 22"/>
-  <rect id="Galleria_Burgas1.016" data-name="Galleria Burgas1.016" class="cls-23" x="313.73" y="43.9" width="31.89" height="60.34"/>
+  <rect id="Galleria_Burgas1.016_S1.1" data-name="Galleria Burgas1.016^S1.1" class="cls-23" x="313.73" y="43.9" width="31.89" height="60.34"/>
   <rect id="Galleria_Burgas1.016B" data-name="Galleria Burgas1.016B" class="cls-23" x="347.33" y="43.9" width="20.8" height="60.34"/>
   <rect id="Galleria_Burgas1.017" data-name="Galleria Burgas1.017" class="cls-23" x="379.45" y="11.33" width="48.69" height="92.91"/>
   <rect id="Galleria_Burgas1.019" data-name="Galleria Burgas1.019" class="cls-23" x="485.72" y="43.98" width="26.29" height="60.26"/>
@@ -455,7 +455,7 @@
   <polygon id="Galleria_Burgas1.025" data-name="Galleria Burgas1.025" class="cls-23" points="567.68 44.81 567.68 104.74 611.33 104.74 611.33 22.19 579.1 22.19 579.1 44.81 567.68 44.81"/>
   <rect id="Galleria_Burgas1.027" data-name="Galleria Burgas1.027" class="cls-23" x="684.82" y="143.9" width="60.34" height="33.37"/>
   <rect id="Galleria_Burgas1.027A" data-name="Galleria Burgas1.027A" class="cls-23" x="684.82" y="178.87" width="60.34" height="31.09"/>
-  <polygon id="Galleria_Burgas1.028" data-name="Galleria Burgas1.028" class="cls-23" points="684.82 211.67 684.82 308.47 746.76 308.47 746.76 320.93 778.3 320.93 778.3 168.24 746.65 168.24 746.65 211.67 684.82 211.67"/>
+  <polygon id="Galleria_Burgas1.028_NAD_36" data-name="Galleria Burgas1.028^NAD_36" class="cls-23" points="684.82 211.67 684.82 308.47 746.76 308.47 746.76 320.93 778.3 320.93 778.3 168.24 746.65 168.24 746.65 211.67 684.82 211.67"/>
   <rect id="Galleria_Burgas1.032" data-name="Galleria Burgas1.032" class="cls-23" x="684.82" y="309.84" width="60.34" height="21.94"/>
   <path id="Galleria_Burgas1.040" data-name="Galleria Burgas1.040" class="cls-23" d="M644.96,416.11h-31.69v86.82c28.71,1.69,71.99,2.37,71.99,2.37v-9.07h-40.16l-.14-80.11Z"/>
   <polygon id="Galleria_Burgas1.048" data-name="Galleria Burgas1.048" class="cls-23" points="413.39 416.11 381.31 416.11 381.31 441.08 390.72 441.08 390.72 443.7 413.39 443.7 413.39 416.11"/>
