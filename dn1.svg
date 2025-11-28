@@ -676,11 +676,11 @@
   <polygon id="DN1G18" class="cls-23" points="410.6 216.9 410.6 228.7 393.3 228.7 393.3 198.7 403.2 198.7 403.2 216.9 410.6 216.9"/>
   <rect id="DN1G19" class="cls-23" x="378.5" y="198.7" width="8.7" height="28.6"/>
   <rect id="DN1G20" class="cls-23" x="367.6" y="198.7" width="9.3" height="28.6"/>
-  <rect id="DN1G21_" class="cls-23" x="358.1" y="198.7" width="7.8" height="22.3"/>
+  <rect id="DN1G21x" class="cls-23" x="358.1" y="198.7" width="7.8" height="22.3"/>
   <polygon id="DN1G22" class="cls-23" points="356.5 198.7 344.2 198.7 344.2 233.5 365.9 233.5 365.9 222.3 356.6 222.3 356.5 198.7"/>
   <polygon id="DN1G23_" class="cls-23" points="342.8 233.5 342.8 198.7 335.1 198.7 335.1 225.7 324.6 225.7 324.6 233.5 342.8 233.5"/>
   <rect id="DN1G24" class="cls-23" x="324.6" y="198.7" width="9.1" height="25.5"/>
-  <rect id="DN1G25" class="cls-23" x="314" y="198.7" width="9.1" height="34.8"/>
+  <rect id="DN1G17_G25" data-name="DN1G17^G25" class="cls-23" x="314" y="198.7" width="9.1" height="34.8"/>
   <rect id="DN1G26" class="cls-23" x="303.7" y="198.7" width="9.1" height="34.8"/>
   <rect id="DN1G27_1" class="cls-23" x="288.2" y="198.7" width="9.4" height="34.8"/>
   <polygon id="DN1G28" class="cls-23" points="287.5 198.7 259.2 198.7 259.2 233.5 287.5 233.6 287.5 222.1 287.5 221.2 287.5 198.7"/>
@@ -705,7 +705,7 @@
   <polygon id="DN1G56" class="cls-23" points="415.6 296.4 407.8 296.4 407.8 276.9 415.6 276.2 415.6 296.4"/>
   <polygon id="DN1G57" class="cls-23" points="406.3 296.4 398.5 296.4 398.5 277.9 406.3 277.1 406.3 296.4"/>
   <polygon id="DN1G58" class="cls-23" points="415.6 298 415.6 311.6 388.1 311.6 388.1 278.8 397.1 277.9 397.1 298.2 415.6 298"/>
-  <polygon id="DN1G59_T04" data-name="DN1G59^T04" class="cls-23" points="386.6 311.3 376.6 311.3 376.6 280.2 386.6 279.2 386.6 311.3"/>
+  <polygon id="DN1G59_T04_T05" data-name="DN1G59^T04^T05" class="cls-23" points="386.6 311.3 376.6 311.3 376.6 280.2 386.6 279.2 386.6 311.3"/>
   <rect id="DN1GF16" class="cls-23" x="120.7" y="508.1" width="57.2" height="57"/>
   <text class="cls-1" transform="translate(169.67 285.68)"><tspan class="cls-37" x="0" y="0">Entrance </tspan><tspan class="cls-36" x="41.03" y="0">A</tspan></text>
   <text class="cls-1" transform="translate(283.9 274.9)"><tspan class="cls-37" x="0" y="0">Entrance </tspan><tspan class="cls-36" x="41.03" y="0">B</tspan></text>
