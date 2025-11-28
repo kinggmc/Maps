@@ -31,7 +31,7 @@
         font-size: 8.22px;
       }
 
-      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-7, .cls-19, .cls-20, .cls-21 {
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-7, .cls-20, .cls-21 {
         fill: #231f20;
       }
 
@@ -97,6 +97,10 @@
       }
 
       .cls-19 {
+        font-size: 6.77px;
+      }
+
+      .cls-20 {
         font-size: 24.37px;
       }
 
@@ -115,10 +119,6 @@
       .cls-31 {
         font-size: 18px;
         letter-spacing: 0em;
-      }
-
-      .cls-21 {
-        font-size: 6.77px;
       }
     </style>
   </defs>
@@ -209,7 +209,7 @@
     </g>
     <text class="cls-13" transform="translate(248.8 244.5) scale(.85 1)"><tspan x="0" y="0">LAZARINI</tspan></text>
     <text class="cls-10" transform="translate(441.96 438.28) scale(1.11 1)"><tspan x="0" y="0">EVELIN</tspan></text>
-    <text class="cls-19" transform="translate(487.9 384.74) scale(.77 1)"><tspan x="0" y="0">FLAIR</tspan></text>
+    <text class="cls-20" transform="translate(487.9 384.74) scale(.77 1)"><tspan x="0" y="0">FLAIR</tspan></text>
     <g>
       <path class="cls-9" d="M325.71,371.1v-1.25l2.04-2.6h-1.98v-1.34h3.72v1.24l-2.07,2.62h2.18v1.33h-3.9Z"/>
       <path class="cls-9" d="M330.25,371.1v-5.19h1.42v3.81h1.93v1.38h-3.35Z"/>
@@ -270,7 +270,7 @@
       <rect x="284.53" y="73.8" width="1.55" height="6.21"/>
     </g>
     <text class="cls-18" transform="translate(684.19 159.01) scale(.85 1)"><tspan x="0" y="0">EFBET</tspan></text>
-    <text class="cls-20" transform="translate(639.42 176.61) scale(.85 1)"><tspan class="cls-27" x="0" y="0">H</tspan><tspan class="cls-31" x="11.35" y="0">8</tspan><tspan class="cls-27" x="23.18" y="0">S</tspan></text>
+    <text class="cls-21" transform="translate(639.42 176.61) scale(.85 1)"><tspan class="cls-27" x="0" y="0">H</tspan><tspan class="cls-31" x="11.35" y="0">8</tspan><tspan class="cls-27" x="23.18" y="0">S</tspan></text>
     <text class="cls-11" transform="translate(493.08 456.79) scale(1.11 1)"><tspan x="0" y="0">BUZZ</tspan></text>
     <text class="cls-12" transform="translate(305.65 227.81) scale(.85 1)"><tspan x="0" y="0">RENI</tspan></text>
     <text class="cls-12" transform="translate(340.07 97.8) scale(.85 1)"><tspan class="cls-24" x="0" y="0">P</tspan><tspan class="cls-28" x="7.53" y="0">A</tspan><tspan x="15.43" y="0">USE</tspan></text>
@@ -286,7 +286,7 @@
     <text class="cls-16" transform="translate(528.94 306.07) rotate(-90.03) scale(.77 1)"><tspan x="0" y="0">DOUGLAS</tspan></text>
     <text class="cls-8" transform="translate(489.55 81.89) scale(.74 1)"><tspan x="0" y="0">OPTICLASA</tspan></text>
     <text class="cls-17" transform="translate(668.05 322.38) scale(.86 1)"><tspan x="0" y="0">LIL</tspan><tspan class="cls-23" x="52.2" y="0">L</tspan><tspan x="68.59" y="0">Y</tspan></text>
-    <text class="cls-21" transform="translate(259.33 337.79) scale(.85 1)"><tspan x="0" y="0">SELINA</tspan></text>
+    <text class="cls-19" transform="translate(259.33 337.79) scale(.85 1)"><tspan x="0" y="0">SELINA</tspan></text>
   </g>
   <polygon id="Galleria_Stara_Zagora2.002" data-name="Galleria Stara Zagora2.002" class="cls-2" points="330.08 32.12 178.72 32.12 136.11 111.18 188.55 137.55 191.34 132.04 219.21 147.05 230.99 124.76 330.08 124.76 330.08 32.12"/>
   <polygon id="Galleria_Stara_Zagora2.004" data-name="Galleria Stara Zagora2.004" class="cls-2" points="331.94 32.12 331.94 125.11 386.95 125.11 386.95 81.03 371.52 81.03 371.52 32.12 331.94 32.12"/>
@@ -294,7 +294,7 @@
   <rect id="Galleria_Stara_Zagora2.009" data-name="Galleria Stara Zagora2.009" class="cls-2" x="485.76" y="32.12" width="45.51" height="89.21"/>
   <rect id="Galleria_Stara_Zagora2.010" data-name="Galleria Stara Zagora2.010" class="cls-2" x="532.77" y="32.12" width="38.01" height="89.21"/>
   <polygon id="Galleria_Stara_Zagora2.011" data-name="Galleria Stara Zagora2.011" class="cls-2" points="633.87 32.12 703.39 32.12 703.39 75.53 654.95 75.53 654.95 81.89 633.87 81.89 633.87 32.12"/>
-  <polygon id="Galleria_Stara_Zagora2.016" data-name="Galleria Stara Zagora2.016" class="cls-2" points="634.38 225.39 634.38 354.65 797.2 354.65 797.2 296.8 764.99 296.8 764.99 284.47 751.31 284.47 751.31 257 687.86 257 687.86 225.39 634.38 225.39"/>
+  <polygon id="Galleria_Stara_Zagora2.016x" data-name="Galleria Stara Zagora2.016x" class="cls-2" points="634.38 225.39 634.38 354.65 797.2 354.65 797.2 296.8 764.99 296.8 764.99 284.47 751.31 284.47 751.31 257 687.86 257 687.86 225.39 634.38 225.39"/>
   <rect id="Galleria_Stara_Zagora2.017" data-name="Galleria Stara Zagora2.017" class="cls-2" x="634.38" y="356.89" width="162.82" height="50"/>
   <polygon id="Galleria_Stara_Zagora2.018" data-name="Galleria Stara Zagora2.018" class="cls-2" points="634.38 409.02 634.38 488.96 776.43 488.96 776.43 504.99 808.49 504.99 808.49 409.02 634.38 409.02"/>
   <path id="Galleria_Stara_Zagora1.020_2.020" data-name="Galleria Stara Zagora1.020^2.020" class="cls-2" d="M633.04,506.42v37.35l-90.94,32.5v107.25c109.47,46.32,257.8,92.45,266.5,95.24v-209.09h-49.62v-63.23h-125.94Z"/>
