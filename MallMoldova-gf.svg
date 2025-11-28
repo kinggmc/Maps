@@ -1447,7 +1447,7 @@
   <polygon id="ERA_ParkGF70" data-name="ERA ParkGF70" class="cls-102" points="60.86 302.42 60.86 348.3 83.25 372.8 89.63 372.8 89.63 323.03 84.57 323.03 84.57 302.42 60.86 302.42"/>
   <polygon id="ERA_ParkGF68" data-name="ERA ParkGF68" class="cls-102" points="85.97 302.42 85.97 321.47 91.11 321.47 91.11 372.8 115.99 372.8 115.99 360.2 139.09 360.2 139.09 302.42 85.97 302.42"/>
   <polygon id="ERA_ParkGF67" data-name="ERA ParkGF67" class="cls-102" points="140.57 302.42 140.57 345.27 151.53 345.27 151.53 357.17 168.56 357.17 168.56 302.42 140.57 302.42"/>
-  <polygon id="ERA_ParkGF43_GF66" data-name="ERA ParkGF43^GF66" class="cls-102" points="174.52 302.42 174.52 374.02 173.63 374.02 173.63 417.85 214.43 417.85 214.43 302.42 174.52 302.42"/>
+  <polygon id="ERA_ParkGF66" data-name="ERA ParkGF66" class="cls-102" points="174.52 302.42 174.52 374.02 173.63 374.02 173.63 417.85 214.43 417.85 214.43 302.42 174.52 302.42"/>
   <polyline id="ERA_ParkGF.62" data-name="ERA ParkGF.62" class="cls-102" points="497.3 303.05 497.3 308.82 509.9 308.82 509.9 303.05 497.62 303.05"/>
   <rect id="ERA_ParkGF60" data-name="ERA ParkGF60" class="cls-102" x="511.21" y="303.05" width="12.14" height="5.77"/>
   <rect id="ERA_ParkGF59" data-name="ERA ParkGF59" class="cls-102" x="524.86" y="303.05" width="14.9" height="5.77"/>
