@@ -613,8 +613,13 @@
       <path d="M420.27,278.75c0-.2,0-.4.07-.6.07-.2.26-.33.46-.4.26-.13.6-.13.86-.13.4.07.73.26.93.6.13.26.2.53.2.79,0,.2-.13.4-.26.53-.13.13-.4.26-.6.26-.26,0-.53,0-.79-.07-.2-.07-.4-.2-.53-.33-.2-.26-.26-.46-.33-.66ZM420.87,278.75c0,.13.07.2.2.26.13.13.33.2.53.2.13,0,.26,0,.33-.07.13-.07.2-.13.26-.26s.07-.2,0-.33c0-.13-.07-.26-.2-.33-.13-.13-.33-.2-.53-.2-.13,0-.26,0-.4.07s-.26.13-.26.26c0,.2.07.26.07.4Z"/>
     </g>
     <text id="BRO_BISTRO-3" data-name="BRO BISTRO" class="cls-21" transform="translate(431.2 305.16) rotate(-90)"><tspan x="0" y="0">REMATCH</tspan></text>
+    <text class="cls-8" transform="translate(220.7 167.33) rotate(-89.55)"><tspan x="0" y="0">RITUALS</tspan></text>
+    <text id="CAROL_OPTIC-3" data-name="CAROL OPTIC" class="cls-6" transform="translate(164.04 228.52)"><tspan x="0" y="0">BT</tspan></text>
+    <text id="CORINT_SHOES-3" data-name="CORINT SHOES" class="cls-19" transform="translate(433.5 249.5) rotate(-90)"><tspan x="0" y="0">FLORIA</tspan></text>
+    <text id="TEZAUR-5" data-name="TEZAUR" class="cls-14" transform="translate(508.67 244.25)"><tspan x="0" y="0">FOCADO</tspan></text>
+    <text id="TEZAUR-6" data-name="TEZAUR" class="cls-14" transform="translate(504.05 270.85)"><tspan x="0" y="0">SHEIKH</tspan></text>
     <text id="DIGI-2" data-name="DIGI" class="cls-13" transform="translate(320.08 230.4) rotate(-90)"><tspan x="0" y="0">ESENTA PLANT</tspan></text>
-    <text id="CORINT_SHOES-3" data-name="CORINT SHOES" class="cls-7" transform="translate(408.44 212.6) rotate(-90)"><tspan x="0" y="0">BIJOUSIM</tspan></text>
+    <text id="CORINT_SHOES-4" data-name="CORINT SHOES" class="cls-7" transform="translate(408.44 212.6) rotate(-90)"><tspan x="0" y="0">BIJOUSIM</tspan></text>
   </g>
   <rect id="DN1GF01" class="cls-26" x="11.4" y="68" width="39.1" height="165.6"/>
   <polygon id="DN1GF02" class="cls-26" points="52.8 68 136.5 68 136.5 107.4 101.9 107.4 101.9 233.5 52.8 233.5 52.8 68"/>
@@ -686,9 +691,4 @@
   <polygon id="DN1G42_1" class="cls-29" points="208.03 48.11 208.03 107.08 249.01 107.08 249.01 177.54 260.29 177.54 260.29 48.11 208.03 48.11"/>
   <polygon id="DN1G55" class="cls-26" points="417.2 296.4 424.7 296.4 424.7 274.9 417.2 275.3 417.2 296.4"/>
   <polygon id="DN1G54" class="cls-26" points="417.2 298.21 417.2 311.3 434.85 311.3 434.85 274.2 426.2 275.04 426.2 298.06 417.2 298.21"/>
-  <text class="cls-8" transform="translate(220.7 167.33) rotate(-89.55)"><tspan x="0" y="0">RITUALS</tspan></text>
-  <text id="CAROL_OPTIC-3" data-name="CAROL OPTIC" class="cls-6" transform="translate(164.04 228.52)"><tspan x="0" y="0">BT</tspan></text>
-  <text id="CORINT_SHOES-4" data-name="CORINT SHOES" class="cls-19" transform="translate(433.5 249.5) rotate(-90)"><tspan x="0" y="0">FLORIA</tspan></text>
-  <text id="TEZAUR-5" data-name="TEZAUR" class="cls-14" transform="translate(508.67 244.25)"><tspan x="0" y="0">FOCADO</tspan></text>
-  <text id="TEZAUR-6" data-name="TEZAUR" class="cls-14" transform="translate(504.05 270.85)"><tspan x="0" y="0">SHEIKH</tspan></text>
 </svg>
